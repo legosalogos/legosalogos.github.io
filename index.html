@@ -254,7 +254,64 @@
       
     </h2>
     
-    <p class="archive__item-excerpt" itemprop="description">Por tercer año consecutivo tenemos un récord de temperatura global. No fue una gran sorpresa para nadie, ya se sabía que iba a ser así desde mediados de 2016...</p>
+    <div class="entry-content">
+    <p>Por tercer año consecutivo tenemos un récord de temperatura global. No fue una gran sorpresa para nadie, ya se sabía que iba a ser así desde mediados de 2016 cuando la temperatura global era tan alta que nada de lo que pasara después podía revertir el récord. Y efectivamente así fue.</p>
+
+<p><img src="/figure/source/2017-01-22-2016-temperatura/unnamed-chunk-1-1.png" alt="Anomalía de temperatura media global (ºC) según tres registros distintos. La línea punteada es un suavizado con LOESS." /></p>
+
+<p>Claro que, como todo en ciencia, hay ciertas sutilezas. Hay varias organizaciones que tienen un registro de la temperatura media global, la NASA publica <a href="https://data.giss.nasa.gov/gistemp/">GISTEM</a>, la NOAA tiene <a href="https://www.ncdc.noaa.gov/">el suyo</a> y también está el del Servicio Meteorológico del Reino Unido, <a href="http://www.metoffice.gov.uk/hadobs/hadcrut4/">HadCRUT</a>. Si bien el año fue récord en todos ellos, no lo fue por el mismo márgen. Cada grupo usa distintos métodos y fuentes de datos y eso explica las pequeñas diferencias. Lo pricipal es cómo se rellenan los huecos de información que en el Ártico. HadCRUT4 y NOAA  directamente lo dejan sin rellenar lo que, a los efectos de la  temperatura media anual, es equivalente a suponer que el calentamiento en el Ártico es igual a la media gobal. Pero esto está muy lejos de la verdad.</p>
+
+<p><img src="/figure/source/2017-01-22-2016-temperatura/unnamed-chunk-2-1.png" alt="plot of chunk unnamed-chunk-2" /></p>
+
+<p>Las altas latitudes, particularmente el Ártico, están aumentando su temperatura a una tasa mucho mayor que la global. GISTEMP trata de tener en cuenta este hecho extrapolando las anomalías de temperatura a partir de estaciones costeras en latitudes más bajas. Este hecho explica que en este registro de temperatura 2016 haya roto el récord del año anterior por tanto margen mientras que según HadCRUT y NOAA la diferencia no fue tan grande.</p>
+
+<p>Pero que el árbol no nos haga perder el bosque. En realidad no importa que este año haya sido récord de temperaura al igual que el año anterior y el año anterior a ese, lo que importa es la <em>tendencia</em> general. Y esta es clara: el aumento de la temperatura global sigue su ritmo de aproximadamente 0.17 ºC/década.</p>
+
+<h2 id="el-nio">El niño</h2>
+
+<p>Como siempre, los negacionistas del cambio climático instintivamente buscan desviar la atención y no hablar del cambio climático. En este caso, su bajada de línea es que este nuevo récord no tiene naaaada que ver con el calentamiento global sino que es únicamente culpa del fenómeno de El Niño.</p>
+
+<p>El Niño es un patrón de oscilación muy importante en la atmósfera que básicamente se caracteriza por un aumento en la temperatura superficial del agua en el Pacífico Ecuatorial. Está conectado con un montón de fenómenos al rededor del globo (como mayor precipitación en el sureste de sudamérica) pero a nivel global tiene la consecuencia de elevar la temperatura durante uno o dos años.</p>
+
+<p>Es cierto que El Niño de 2015/2016 fue excepcionalmente intenso y tuvo una gran influencia en las temperaturas globales. Pero decir que el el récord se debe únicamente a la influencia de El Niño es falso o engañoso. Si le restamos la influencia de El Niño al registro de temperatura global GISTEMP sigue teniendo a 2016 como el año más caliente, aunque con un margen reducido.</p>
+
+<p><img src="/figure/source/2017-01-22-2016-temperatura/correccion_enso-1.png" alt="plot of chunk correccion_enso" /></p>
+
+<p class="notice">Cabe señalar que estimar el efecto de El Niño en la temperatura global no es cosa trivial y hay distintas formas de hacerlo que pueden dar resultados ligéramente distintos.</p>
+
+<p>Por otro lado la <em>tendencia</em>, que es lo que importa, se mantiene inalterada. Y lo mismo se puede decir para HadCRUT y NOAA, salvo que en esos casos 2016 es el segundo año más cálido si se tiene en cuenta la influencia de El Niño.</p>
+
+<p>La conclusión es clara. Tanto El Niño como otros fenómenos de la variabilidad interna del clima, sólo afectan las perturbaciones temporárias, pero no la tendencia global.</p>
+
+<h2 id="como-lo-predijo-la-profesa">Como lo predijo la profesía</h2>
+
+<p>Este nuevo año récord también tiene ocupados a los negacionistas que tanto hablan del “hiato” o la “pausa” en el calentamiento global. Al principio el argumento era que desde 1997 (o 1998) que el aumento de temperatura global no era estadísticamente significativo. El año fue seleccionado porque, como vimos antes, fue excepcionalmente cálido debido a El Niño y porque cualquier período que comenzara en 1998 iba a muy corto y las variaciones temporarias en la temperatura global iban a ocultar la verdadera señal.</p>
+
+<p>A medida que pasaban los años y que teníamos más datos, empezó a ser demasiado obvio que el calentamiento global no se había detenido mágicamente en 1998. La “pausa”, entonces, comenzó a cambiar de significado y ahora los negacionistas hacían más énfasis en la supuesta disparidad entre las temperaturas observadas y las proyectadas por los modelos climáticos.</p>
+
+<p>Hacer comparaciones entre observaciones y modelos <a href="http://www.climate-lab-book.ac.uk/2015/an-apples-to-apples-comparison-of-global-temperatures/">no es trivial</a>. Para empezar, los modelos no pretenden predecir el futuro ya que la evolución temperatura global depende de lo que hagamos nostoros; esencialmente cuánto CO2 emitimos. Tampoco pueden predecir exactamente el momento en el que va a darse el fenómeno de El Niño ni su intensidad, sólo pueden tratar de simular su efecto estadísticamente (y tampoco son muy buenos en eso). Además mientras que los registros de temperatura global usan una mezcla de la temperatura del aire a 2m del suelo y de temperatura de la superficie del mar, la temperatura global de los modelos se calcula usando sólo la temperatura del aire; esto es muy relevante en regiones donde antes había hielo marítimo y ahora.</p>
+
+<p>Y esos problemas son sólo el comienzo. Además de todo lo anterior hay que tener en cuenta el <em>período base</em> con respecto al cual se calculan las anomalías de temperatura. Los modelos climáticos no necesariamente simulan a la perfección la temperatura global en términos absolutos, pero lo que nos interesa es cómo evoluciona, cuánto aumenta la temperatura en relación a la temperatura anterior.</p>
+
+<p>Peo aún ignorando todos esos problemas y haciendo una comparación <em>naive</em>, podemos ver que la temperatura global se mantuvo dentro de lo proyectado (el área sombreada indica el intervalo de confianza del 95%).</p>
+
+<p><img src="/figure/source/2017-01-22-2016-temperatura/gistem_vs_cmip5-1.png" title="plot of chunk gistem_vs_cmip5" alt="plot of chunk gistem_vs_cmip5" width="620px" height="680px" /></p>
+
+<p>Pero es muy difícil decir que son buenos o malos con un período tan corto de tiempo. Los modelos del proyecto CMPI5 recién pueden tomarse como predictivos a partir de 2005. Podemos tomar una serie de modelos más viejos y actualizar la comparación que hice hace 4 años <a href="http://legosalogos.blogspot.com.ar/2012/07/los-modelos-climaticos-son-confiables.html">en este mismo blog</a>.</p>
+
+<p>En 1988, James Hansen publicó los resultados de un modelo climático que proyectaba un importante aumento de las temperaturas globales. Consideró 3 escenarios distintos de cómo podrían evolucionar las emisiones de CO2 y otros forzantes climáticos, y las emisiones reales estuvieron más o menos en el medio; menores que su escenario más pesimitas pero mayores que el maś optimista.</p>
+
+<p>El resultado es que las temperaturas globales están muy cercanas a las que proyectó Hansen hace casi 30 años.</p>
+
+<p><img src="/figure/source/2017-01-22-2016-temperatura/gis_vs_hansen-1.png" alt="plot of chunk gis_vs_hansen" /></p>
+
+<p>Actualmente se considera que su modelo era demasiado sensible así que es entendible que haya sobreestimado un poco, pero es impresionante que un modelo tan rústico haya proyectado las temperaturas globales con tanta exactitud.</p>
+
+<h2 id="lo-que-se-viene">Lo que se viene</h2>
+
+<p>Es casi una certeza que 2017 no va a romper otro récord de temperatura. Es lo esperable. Aún en un contexto de calentamiento globla, la variabilidad interna implica que cada año no va a ser más cálido que el anterior. Muy probablemente, los negacionistas van a agarrase de eso para negar o minimizar el calentamiento global. Esa es mi predicción para este año.</p>
+
+  </div><!-- /.entry-content -->
   </article>
 </div>
 
