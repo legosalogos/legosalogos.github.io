@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/2017/2016-temperatura/</loc>
+<loc>https://legosalogos.github.io/2017/2016-temperatura/</loc>
 <lastmod>2017-01-31T00:00:00-03:00</lastmod>
 </url>
 <url>
-<loc>/</loc>
+<loc>https://legosalogos.github.io/</loc>
 </url>
 <url>
-<loc>/categories/clim%C3%A1tico/</loc>
+<loc>https://legosalogos.github.io/categories/clim%C3%A1tico/</loc>
 </url>
 <url>
-<loc>/archive-single.html</loc>
+<loc>https://legosalogos.github.io/archive-single.html</loc>
 <lastmod>2017-01-31T20:50:12-03:00</lastmod>
+</url>
+<url>
+<loc>https://legosalogos.github.io/header.pdf</loc>
+<lastmod>2017-02-02T15:58:09-03:00</lastmod>
 </url>
 </urlset>
