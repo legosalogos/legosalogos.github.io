@@ -13,7 +13,7 @@
 
 
 
-<title>Legos a logos</title>
+<title>Búsqueda  -  Legos a logos</title>
 
 
 
@@ -25,20 +25,20 @@
 
 <meta property="og:locale" content="es_AR">
 <meta property="og:site_name" content="Legos a logos">
-<meta property="og:title" content="Legos a logos">
+<meta property="og:title" content="Búsqueda">
 
 
-  <link rel="canonical" href="https://legosalogos.github.io/">
-  <meta property="og:url" content="https://legosalogos.github.io/">
+  <link rel="canonical" href="https://legosalogos.github.io/search/">
+  <meta property="og:url" content="https://legosalogos.github.io/search/">
 
 
 
 
 
   <meta name="twitter:site" content="@d_olivaw">
-  <meta name="twitter:title" content="Legos a logos">
+  <meta name="twitter:title" content="Búsqueda">
   <meta name="twitter:description" content="">
-  <meta name="twitter:url" content="https://legosalogos.github.io/">
+  <meta name="twitter:url" content="https://legosalogos.github.io/search/">
 
   
     <meta name="twitter:card" content="summary">
@@ -112,7 +112,7 @@
 <!-- end custom head snippets -->
   </head>
 
-  <body class="layout--home">
+  <body class="layout--archive">
 
     <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
@@ -138,149 +138,77 @@
     
 
 
+  
+    
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a href="https://legosalogos.github.io/" itemprop="item"><span itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep">/</span>
+      
+      
+        <li class="current">Búsqueda</li>
+      
+    
+  </ol>
+</nav>
+  
+
 
 <div id="main" role="main">
   
-  <div class="sidebar sticky">
-  
-
-<div itemscope itemtype="http://schema.org/Person">
-
-  
-    <div class="author__avatar">
-      
-        <img src="https://legosalogos.github.io/avatar_sepia.jpg" class="author__avatar" alt="Elio Campitelli" itemprop="image">
-      
-    </div>
-  
-
-  <div class="author__content">
-    <h3 class="author__name" itemprop="name">Elio Campitelli</h3>
-    
-      <p class="author__bio" itemprop="description">
-        
-      </p>
-    
-  </div>
-
-  <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
-      
-
-      
-
-      
-
-      
-
-      
-        <li>
-          <a href="https://twitter.com/d_olivaw" itemprop="sameAs">
-            <i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
-          </a>
-        </li>
-      
-
-      
-        <li>
-          <a href="https://www.facebook.com/legosalogos" itemprop="sameAs">
-            <i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
-          </a>
-        </li>
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      <!--
-  <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
-      <i class="fa fa-fw" aria-hidden="true"></i> Custom Social Profile Link
-    </a>
-  </li>
--->
-    </ul>
-  </div>
-</div>
-
-  
-  </div>
-
 
   <div class="archive">
     
-      <h1 class="page__title"></h1>
+      <h1 class="page__title">Búsqueda</h1>
     
-    <h3 class="archive__subtitle">Recent Posts</h3>
-<br />
+      <!-- Search form -->
+  <form method="get" action="/search" data-search-form>
+    <input type="search" name="q" id="q" placeholder="Buscar" data-search-input />
+    <input type="submit" value="Search" />
+  </form>
+
+  <!-- Search results placeholder -->
+  <p data-search-found>
+    Se encontraron <span data-search-found-count></span> resultados para &ldquo;<span data-search-found-term></span>&rdquo;.
+  </p>
+  <div data-search-results></div>
 
 
-  
 
-
-
-<div class="grid__item">
+  <!-- Search result template -->
+  <script type="text/x-template" id="search-result">
+<div class="list__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
       <div class="archive__item-teaser">
-        <img src=
-          
-            "https://legosalogos.github.io/figure/source/2017-01-22-2016-temperatura/temperatura-global-1.png"
-          
-          alt="">
+        <img src= "##Header##" alt="">
       </div>
-    
-    <h1 class="archive__item-title" itemprop="headline">
-      
-        <a href="https://legosalogos.github.io/2017/2016-temperatura/" rel="permalink">El año más caliente
-</a>
-      
+      <h1 class="archive__item-title" itemprop="headline">
+        <a href="##Url##" rel="permalink">##Title##</a>
     </h1>
-    
-    <p class="archive__item-excerpt" itemprop="description">Por tercer año consecutivo se rompe un record mundial. El clima está tomando esteroides
-</p>
+    <p class="archive__item-excerpt" itemprop="description">##Excerpt##</p>
   </article>
 </div>
 
 
+  </script>
 
 
+
+  <!-- jQuery - required but can be moved to the <head> -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+  <!-- Search script - Must appear after template -->
+  <script src="/scripts/search.js"></script>
 
   </div>
 </div>
