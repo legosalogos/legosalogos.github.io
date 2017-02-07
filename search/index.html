@@ -23,7 +23,7 @@
 
 
 
-<meta property="og:locale" content="es_AR">
+<meta property="og:locale" content="es">
 <meta property="og:site_name" content="Legos a logos">
 <meta property="og:title" content="Búsqueda">
 
@@ -138,23 +138,28 @@
     <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
 <![endif]-->
-    <div class="masthead">
-        <a href="https://legosalogos.github.io/"><img src = "/header.png" /></a>
+    
+<div class="masthead">
+        <a href="https://legosalogos.github.io/"><img src = "/header.png" width = "1500px"/></a>
+
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
-
-
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="https://legosalogos.github.io/">Legos a logos</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="https://legosalogos.github.io/">Legos a logos</a>
+          <li>          
+          
+          
+            
+            <li class="masthead__menu-item"><a href="https://mmistakes.github.io/minimal-mistakes/about/">¿Qué es esto?</a></li>
           
         </ul>
         <ul class="hidden-links hidden"></ul>
-      </nav>
     </div>
   </div>
 </div>
+
 
     
 
@@ -171,7 +176,7 @@
     
       
         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-          <a href="https://legosalogos.github.io/" itemprop="item"><span itemprop="name">Home</span></a>
+          <a href="https://legosalogos.github.io/" itemprop="item"><span itemprop="name">Inicio</span></a>
           <meta itemprop="position" content="1" />
         </li>
         <span class="sep">/</span>
@@ -192,18 +197,11 @@
     
       <h1 class="page__title">Búsqueda</h1>
     
-      <!-- Search form -->
-  <form method="get" action="/search" data-search-form>
-    <input type="search" name="q" id="q" placeholder="Buscar" data-search-input />
-    <input type="submit" value="Search" />
-  </form>
-
-  <!-- Search results placeholder -->
+      <!-- Search results placeholder -->
   <p data-search-found>
     Se encontraron <span data-search-found-count></span> resultados para &ldquo;<span data-search-found-term></span>&rdquo;.
   </p>
   <div data-search-results></div>
-
 
 
   <!-- Search result template -->
@@ -223,8 +221,6 @@
 
   </script>
 
-
-
   <!-- jQuery - required but can be moved to the <head> -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
@@ -242,6 +238,8 @@
         <div class="page__footer-follow">
   <ul class="social-icons">
     
+      <li><strong>Seguir:</strong></li>
+    
     
       <li><a href="https://twitter.com/d_olivaw"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
     
@@ -255,21 +253,6 @@
 </div>
 
 <div class="page__footer-copyright">&copy; 2017 Elio Campitelli. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
-
-<div class="super-search" id="js-super-search">
-  <a href="javascript:void(0)" onclick="superSearch.toggle()" class="super-search__close-btn">X</a>
-  <input type="text" placeholder="Type here to search" class="super-search__input" id="js-super-search__input">
-  <ul class="super-search__results" id="js-super-search__results"></ul>
- </div>
-
- <script src="/assets/js/super-search.js"></script>
- <script>superSearch({
-    searchFile: '/feed.xml',
-    searchSelector: '#js-super-search', // CSS Selector for search container element.
-    inputSelector: '#js-super-search__input', // CSS selector for <input>
-    resultsSelector: '#js-super-search__results' // CSS selector for results container
-});</script>
-
 
       </footer>
     </div>
