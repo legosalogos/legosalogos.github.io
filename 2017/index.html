@@ -62,7 +62,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2017-01-01T00:00:00-03:00">
+  <meta property="article:published_time" content="2017-01-01T00:00:00+00:00">
 
 
 
@@ -100,6 +100,9 @@
 
 <link href="https://legosalogos.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Legos a logos Feed">
 
+<link href="/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts (atom)" />
+
+
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
@@ -109,6 +112,8 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
+<!-- Super-search -->
+<script src="/assets/js/super-search.js"></script>
 
 
 <!-- Favicon -->
@@ -215,6 +220,22 @@
 </div>
 
 <div class="page__footer-copyright">&copy; 2017 Elio Campitelli. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+<div class="super-search" id="js-super-search">
+  <a href="javascript:void(0)" onclick="superSearch.toggle()" class="super-search__close-btn">X</a>
+  <input type="text" placeholder="Type here to search" class="super-search__input" id="js-super-search__input">
+  <ul class="super-search__results" id="js-super-search__results"></ul>
+ </div>
+
+ <script src="/assets/js/super-search.js"></script>
+ <script>superSearch({
+    searchFile: '/feed.xml',
+    searchSelector: '#js-super-search', // CSS Selector for search container element.
+    inputSelector: '#js-super-search__input', // CSS selector for <input>
+    resultsSelector: '#js-super-search__results' // CSS selector for results container
+});</script>
+
+
       </footer>
     </div>
 

@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://legosalogos.github.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="https://legosalogos.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://legosalogos.github.io/" rel="alternate" type="text/html" /><updated>2017-02-06T20:01:00-03:00</updated><id>https://legosalogos.github.io//</id><title type="html">Legos a logos</title><subtitle>Escepticismo</subtitle><author><name>Elio Campitelli</name></author><entry><title type="html">El año más caliente</title><link href="https://legosalogos.github.io/2017/2016-temperatura/" rel="alternate" type="text/html" title="El año más caliente" /><published>2017-01-31T00:00:00-03:00</published><updated>2017-01-31T00:00:00-03:00</updated><id>https://legosalogos.github.io/2017/2016-temperatura</id><content type="html" xml:base="https://legosalogos.github.io/2017/2016-temperatura/">&lt;p&gt;Por tercer año consecutivo tenemos un récord de temperatura global. No fue una gran sorpresa para nadie, ya se sabía que iba a ser así desde mediados de 2016 cuando la temperatura global era tan alta que nada de lo que pasara después podía revertir el récord. Y efectivamente así fue.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Elio Campitelli</title>
+    <description>Escepticismo</description>    
+    <link>https://legosalogos.github.io</link>
+    <atom:link href="https://legosalogos.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>El año más caliente</title>
+                
+
+          <description>&lt;p&gt;Por tercer año consecutivo tenemos un récord de temperatura global. No fue una gran sorpresa para nadie, ya se sabía que iba a ser así desde mediados de 2016 cuando la temperatura global era tan alta que nada de lo que pasara después podía revertir el récord. Y efectivamente así fue.&lt;/p&gt;
 
 &lt;p class=&quot;full&quot;&gt;&lt;img src=&quot;/figure/source/2017-01-22-2016-temperatura/temperatura-global-1.png&quot; alt=&quot;Temperatura&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Anomalía de temperatura media global con respecto a la media del período 1970-2005. En línea punteada se muestra un suavizado utilizando regresión local. &lt;/figcaption&gt;
@@ -56,4 +68,13 @@
 
 &lt;h2 id=&quot;lo-que-se-viene&quot;&gt;Lo que se viene&lt;/h2&gt;
 
-&lt;p&gt;Es casi una certeza que 2017 no va a romper otro récord de temperatura. Es lo esperable. Aún en un contexto de calentamiento globla, la variabilidad interna implica que cada año no va a ser más cálido que el anterior. Muy probablemente, los negacionistas van a agarrase de eso para negar o minimizar el calentamiento global. Esa es mi predicción para este año.&lt;/p&gt;</content><author><name>Elio Campitelli</name></author><category term="climático" /><summary type="html">Por tercer año consecutivo se rompe un record mundial. El clima está tomando esteroides</summary></entry></feed>
+&lt;p&gt;Es casi una certeza que 2017 no va a romper otro récord de temperatura. Es lo esperable. Aún en un contexto de calentamiento globla, la variabilidad interna implica que cada año no va a ser más cálido que el anterior. Muy probablemente, los negacionistas van a agarrase de eso para negar o minimizar el calentamiento global. Esa es mi predicción para este año.&lt;/p&gt;
+</description>
+
+        <published>Tue, 31 Jan 2017 00:00:00 +0000</published>
+        <link>https://legosalogos.github.io/2017/2016-temperatura/</link>
+        <guid isPermaLink="true">https://legosalogos.github.io/2017/2016-temperatura/</guid>
+      </item>
+    
+  </channel>
+</rss>
