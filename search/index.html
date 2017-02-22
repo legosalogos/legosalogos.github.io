@@ -13,7 +13,7 @@
 
 
 
-<title>Búsqueda  -  Legos a logos</title>
+<title>Legos a logos</title>
 
 
 
@@ -25,7 +25,7 @@
 
 <meta property="og:locale" content="es">
 <meta property="og:site_name" content="Legos a logos">
-<meta property="og:title" content="Búsqueda">
+<meta property="og:title" content="Legos a logos">
 
 
   <link rel="canonical" href="https://legosalogos.github.io/search/">
@@ -36,7 +36,7 @@
 
 
   <meta name="twitter:site" content="@d_olivaw">
-  <meta name="twitter:title" content="Búsqueda">
+  <meta name="twitter:title" content="Legos a logos">
   <meta name="twitter:description" content="Escepticismo">
   <meta name="twitter:url" content="https://legosalogos.github.io/search/">
 
@@ -164,52 +164,35 @@
     
 
 
-  
-    
-
-
-
-<nav class="breadcrumbs">
-  <ol itemscope itemtype="http://schema.org/BreadcrumbList">
-    
-    
-    
-      
-        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-          <a href="https://legosalogos.github.io/" itemprop="item"><span itemprop="name">Inicio</span></a>
-          <meta itemprop="position" content="1" />
-        </li>
-        <span class="sep">/</span>
-      
-      
-        <li class="current">Búsqueda</li>
-      
-    
-  </ol>
-</nav>
-  
-
 
 <div id="main" role="main">
   
 
   <div class="archive">
     
-      <h1 class="page__title">Búsqueda</h1>
+      <h1 class="page__title"></h1>
     
-      <!-- Search results placeholder -->
+    <h3 class="archive__subtitle">Búsqueda</h3>
+<!-- search form -->
+            <form method="get" action="/search" data-search-form>
+              <input type="search" class = "input-search" name="q" id="q" placeholder="Buscar" data-search-input />
+            </form>
+  <!-- Search results placeholder -->
   <p data-search-found>
     Se encontraron <span data-search-found-count></span> resultados para &ldquo;<span data-search-found-term></span>&rdquo;.
   </p>
   <div data-search-results></div>
 
 
+
+
+
   <!-- Search result template -->
   <script type="text/x-template" id="search-result">
-<div class="list__item">
+<div class="grid__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
       <div class="archive__item-teaser">
-        <img src= "##Header##" alt="">
+        <a href="##Url##" rel="permalink"><img src= "##Header##" alt=""></a>
       </div>
       <h1 class="archive__item-title" itemprop="headline">
         <a href="##Url##" rel="permalink">##Title##</a>
@@ -252,7 +235,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2017 Elio Campitelli. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2017 Elio Campitelli. Gracias a <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
@@ -273,6 +256,7 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+
 
 
 
