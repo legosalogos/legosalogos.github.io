@@ -12,8 +12,7 @@
 
 				
 
-				<media:content url= "https://legosalogos.github.io/figure/source/2017-01-22-2016-temperatura/temperatura-global-1.png"
-           medium="image" />   
+				<media:content url="https://legosalogos.github.io/figure/source/2017-01-22-2016-temperatura/temperatura-global-1.png" medium="image" />   
 					<description>&lt;p&gt;Por tercer año consecutivo tenemos un récord de temperatura global. No fue una gran sorpresa para nadie, ya se sabía que iba a ser así desde mediados de 2016 cuando la temperatura global era tan alta que nada de lo que pasara después podía revertir el récord. Y efectivamente así fue.&lt;/p&gt;
 
 &lt;p class=&quot;full&quot;&gt;&lt;img src=&quot;/figure/source/2017-01-22-2016-temperatura/temperatura-global-1.png&quot; alt=&quot;Temperatura&quot; /&gt;&lt;/p&gt;
@@ -85,8 +84,7 @@
 
 				
 
-				<media:content url= "https://legosalogos.github.io/assets/images/teaser_personajes_femeninos.jpg"
-           medium="image" />   
+				<media:content url="https://legosalogos.github.io/assets/images/teaser_personajes_femeninos.jpg" medium="image" />   
 					<description>&lt;p&gt;La discusión al rededor de la representación de géneros y razas en el cine es muy interesante. Por un lado, es un indicador de los sesgos y estereotipos presentes en cierta parte de la sociedad y, por otro, es una herramienta de la perpetuación de los mismos. Sin embargo por lo general observo una notable falta de análisis cuantitativo. Hay muchos artículos que agarran ejemplos aislados o conjuntos seleccionados específicamente por el autor pero pocos datos que sustenten.&lt;/p&gt;
 
 &lt;p&gt;Hace un tiempo encontré &lt;a href=&quot;http://polygraph.cool/films/&quot;&gt;un análisis excelente&lt;/a&gt; que usa los guiones de unas 2000 películas para mostrar la impresionante subrepresentación de las mujeres en las películas de Hollywood. Recientemente un &lt;a href=&quot;https://medium.freecodecamp.com/women-only-said-27-of-the-words-in-2016s-biggest-movies-955cb480c3c4#.ju8iav839&quot;&gt;artículo similar&lt;/a&gt; concluyó que de las 10 películas con más recaudación de 2016, sólo el 27% del diálogo fue dicho por pesonajes femeninos. La autora, Amber Thomas, se merece todo el crédito no sólo por haber compilado la información sino por &lt;a href=&quot;https://github.com/ProQuestionAsker/2016MovieDialogue&quot;&gt;hacer públicos los datos&lt;/a&gt;, los cuales decidí descargar para mirarlos por mi cuenta.&lt;/p&gt;
@@ -156,8 +154,7 @@ Ojo: que ambas líneas tengan magnitud similar no signifca que la cantidad de pe
 
 				
 
-				<media:content url= "https://legosalogos.github.io/assets/images/papa_rellena_small.jpg"
-           medium="image" />   
+				<media:content url="https://legosalogos.github.io/assets/images/papa_rellena_small.jpg" medium="image" />   
 					<description>&lt;p&gt;Hoy tenía que hacer algo de comer y como recién vuelvo de festejar navidad lejos de casa, estaba con la heladera casi vacía y pocas cosas en la alacena. Sin saber qué cocinar, se me ocurrió buscar alguna página en la que uno ponga los ingredientes que tiene y te tire recetas posibles. Obviamente eso existe y me dio la idea de hacer papas rellenas. Como la receta en ese lugar no me convencía y estaba en inglés (puedo leer papers técnicos, pero no me se los nombres de las verduras) decidí googlear “receta papa rellena”. ¡Mi sorpresa al ver que Google, en toda su gloria, me muestra un listado de ingredientes y un link a una web que afirma tener la Receta Oficial® de papa rellena.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/papa_rellena.jpg&quot; alt=&quot;papa rellena&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
@@ -185,8 +182,7 @@ Ojo: que ambas líneas tengan magnitud similar no signifca que la cantidad de pe
 
 				
 
-				<media:content url= "https://legosalogos.github.io/assets/images/sex_teaser.jpg"
-           medium="image" />   
+				<media:content url="https://legosalogos.github.io/assets/images/sex_teaser.jpg" medium="image" />   
 					<description>&lt;p&gt;No es un secreto que el feminismo tiene una relación complicada con la prostitución. Esto no es raro ya que es un tema donde convergen un número de valores y cuestiones contrapuestas y distintas personas razonables pueden tener opiniones distintas. Pero lo que me llama la atención al leer la entrada de &lt;a href=&quot;http://plato.stanford.edu/entries/feminist-sex-markets/#Pro&quot;&gt;Perspectivas feministas en el mercado sexual&lt;/a&gt; de la Enciclopedia de Filosofía de Standford es una temática que se repite mucho, y no sólo entre los abolicionistas.&lt;/p&gt;
 
 &lt;p&gt;Muchos argumentos a favor de la prohibición de la prostitución están anclados en una idea “sagrada” del sexo. Se basan en que la autonomía sexual es fundamental para la persona o que la sexualidad es parte integral de la identidad propia y que, por lo tanto, no debe cederse a cambio de dinero. Dejando de lado otros argumentos y problemáticas sobre la prostitución y sin pretender tener analizar la cuestión en general, no entiendo cómo esta idea tiene tanta tracción.&lt;/p&gt;
@@ -220,8 +216,7 @@ Ojo: que ambas líneas tengan magnitud similar no signifca que la cantidad de pe
 
 				
 
-				<media:content url= "https://legosalogos.github.io/assets/images/teaser_cowspiracy.jpg"
-           medium="image" />   
+				<media:content url="https://legosalogos.github.io/assets/images/teaser_cowspiracy.jpg" medium="image" />   
 					<description>&lt;p&gt;Cowspiracy es una película sobre veganismo. En particular, una película que busca convencer a su audiencia de que lo mejor que puede hacer para salvar el medio ambiente es dejar de comer carne y todo producto derivado de los animales. Como vegetariano, tengo un cierto grado de afinidad por esa tesis; se puede elegir, es preferible una dieta que implique la menor cantidad de sufrimiento y muerte animal posible. Pero como persona racional con respeto a la verdad, Cowspiracy es un claro ejemplo de por qué no hay que usar documentales para informarse sobre temas controvertidos.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/cows.jpg&quot; alt=&quot;vaca&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
@@ -277,8 +272,7 @@ Cómo se le ocurre pensar que no existe una única solución fácil para todo.&l
 
 				
 
-				<media:content url= "https://legosalogos.github.io/assets/images/teaser_caos.jpg"
-           medium="image" />   
+				<media:content url="https://legosalogos.github.io/assets/images/teaser_caos.jpg" medium="image" />   
 					<description>&lt;p&gt;Es algo que todos sabemos. Desde que somos chicos, nuestros padres nos advierten de las terribles consecuencias de viajar en el tiempo. “Cualquier minúsculo cambio en el pasado” -dice el clásico cuento para dormir- “puede cambiar por completo la historia como la conocemos”. Y está claro por qué sucede esto: el Universo, creemos, es un sistema caótico.&lt;/p&gt;
 
 &lt;p&gt;Y es así como desde nuestra más tierna infancia se nos enseñan las ecuaciones diferenciales que componen el &lt;a href=&quot;https://es.wikipedia.org/wiki/Atractor_de_Lorenz&quot;&gt;Sistema de Lorenz&lt;/a&gt;; uno de los ejemplos más elegantes de sistema caótico en el cual pequeñas diferencias en las condiciones iniciales resultan en enormes diferencias en las condiciones finales en muy poco tiempo. No falta en la cuna de ningún niño un peluche representando al &lt;i&gt;atractor&lt;/i&gt; que le corresponde y que representa las &lt;i&gt;trayectorias&lt;/i&gt; estables del sistema.&lt;/p&gt;
@@ -330,8 +324,7 @@ Cómo se le ocurre pensar que no existe una única solución fácil para todo.&l
 
 				
 
-				<media:content url= "https://legosalogos.github.io/assets/images/teaser_novale.jpg"
-           medium="image" />   
+				<media:content url="https://legosalogos.github.io/assets/images/teaser_novale.jpg" medium="image" />   
 					<description>&lt;p&gt;El mes pasado, el diario La Nación publicaba &lt;a href=&quot;http://www.lanacion.com.ar/1880841-educacion-vale-la-pena-estudiar-una-carrera-en-la-universidad&quot; target=&quot;_blank&quot;&gt;una nota&lt;/a&gt; donde reportaba sobre una conferencia dada en el Global Education &amp;amp; Skills Forum en donde se dio el debate del rol de las universidades como formadores de profesionales. El resumen: según algunos expertos, los títulos universitarios son “irrelevantes” a la hora de conseguir empleo y se debe repensar qué es lo que se enseña en la universidad e incluso considerar otros modelos distintos al del universitario.&lt;/p&gt;
 
 &lt;p&gt;Dentro del clima político de nuestro país, el artículo fue recibido con indignación por parte de un grupo de la sociedad que percibió intenciones ocultas en el tono del mismo. Las acusaciones de que “La Nación nos quiere tontos y sin educación” acompañaban al link en Facebook y Twitter. Tal fue la indignación que en el blog de Educando al Cerebro, Fabricio Ballarini y Pedro Bekinschtein decidieron escribir &lt;a href=&quot;http://www.educandoalcerebro.com.ar/#!notas/zrqd7&quot; target=&quot;_blank&quot;&gt;una respuesta&lt;/a&gt; donde buscan usar la evidencia científica para responder al interrogante del titular. “Por vos, por tu salud, por tu cerebro, por tus hijos, por un mundo mejor definitivamente VALE LA PENA IR A LA UNIVERSIDAD” termina triunfante. Sin embargo no hace falta más que un análisis superficial para concluir que no, no vale a pena defender a la universidad usando pobre evidencia y falacias lógicas.&lt;/p&gt;
