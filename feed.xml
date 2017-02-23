@@ -1,4 +1,195 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!doctype html>
+<html lang="es" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>Legos a logos</title>
+
+
+
+
+<meta name="description" content="Escepticismo">
+
+
+
+
+<meta property="og:locale" content="es">
+<meta property="og:site_name" content="Legos a logos">
+<meta property="og:title" content="Legos a logos">
+
+
+  <link rel="canonical" href="https://legosalogos.github.io/feed.xml">
+  <meta property="og:url" content="https://legosalogos.github.io/feed.xml">
+
+
+
+
+
+  <meta name="twitter:site" content="@d_olivaw">
+  <meta name="twitter:title" content="Legos a logos">
+  <meta name="twitter:description" content="Escepticismo">
+  <meta name="twitter:url" content="https://legosalogos.github.io/feed.xml">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+      <meta name="twitter:image" content="https://legosalogos.github.io/assets/images/site_logo.png">
+    
+  
+
+  
+
+
+
+  
+
+  
+
+
+
+  <meta property="og:image" content="https://legosalogos.github.io/assets/images/site_logo.png">
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "https://legosalogos.github.io",
+      "logo": "https://legosalogos.github.io/assets/images/site_logo.png"
+    }
+  </script>
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "person",
+      "name" : "Elio Campitelli",
+      "url" : "https://legosalogos.github.io",
+      "sameAs" : ["https://twitter.com/d_olivaw","https://www.facebook.com/dan.olivaw"]
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="https://legosalogos.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Legos a logos Feed">
+
+<link href="/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 10 blog posts (atom)" />
+
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- Super-search -->
+<script src="/assets/js/super-search.js"></script>
+
+
+<!-- Favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=alj4xY6B8Q">
+<link rel="icon" type="image/png" href="/favicon-32x32.png?v=alj4xY6B8Q" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-16x16.png?v=alj4xY6B8Q" sizes="16x16">
+<link rel="manifest" href="/manifest.json?v=alj4xY6B8Q">
+<link rel="mask-icon" href="/safari-pinned-tab.svg?v=alj4xY6B8Q" color="#878787">
+<link rel="shortcut icon" href="/favicon.ico?v=alj4xY6B8Q">
+<meta name="theme-color" content="#f2f2f2">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="https://legosalogos.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+  </head>
+
+  <body class="layout--single">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    
+<div class="masthead">
+        <a href="https://legosalogos.github.io/"><img src = "/header.png" width = "1500px"/></a>
+
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="https://legosalogos.github.io/">Legos a logos</a>
+          <li>          
+          
+          
+            
+            <li class="masthead__menu-item"><a href="https://legosalogos.github.io/about/">¿Qué es esto?</a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+    </div>
+  </div>
+</div>
+
+
+    
+
+
+
+<div id="main" role="main">
+  
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    
+    
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Elio Campitelli</title>
@@ -8,7 +199,7 @@
 		
 			<item>
 				<title>El año más caliente</title>
-				        
+				   
 					<description>&lt;p&gt;Por tercer año consecutivo tenemos un récord de temperatura global. No fue una gran sorpresa para nadie, ya se sabía que iba a ser así desde mediados de 2016 cuando la temperatura global era tan alta que nada de lo que pasara después podía revertir el récord. Y efectivamente así fue.&lt;/p&gt;
 
 &lt;p class=&quot;full&quot;&gt;&lt;img src=&quot;/figure/source/2017-01-22-2016-temperatura/temperatura-global-1.png&quot; alt=&quot;Temperatura&quot; /&gt;&lt;/p&gt;
@@ -76,7 +267,7 @@
 		
 			<item>
 				<title>Personajes femeninos y dónde encontralos</title>
-				        
+				   
 					<description>&lt;p&gt;La discusión al rededor de la representación de géneros y razas en el cine es muy interesante. Por un lado, es un indicador de los sesgos y estereotipos presentes en cierta parte de la sociedad y, por otro, es una herramienta de la perpetuación de los mismos. Sin embargo por lo general observo una notable falta de análisis cuantitativo. Hay muchos artículos que agarran ejemplos aislados o conjuntos seleccionados específicamente por el autor pero pocos datos que sustenten.&lt;/p&gt;
 
 &lt;p&gt;Hace un tiempo encontré &lt;a href=&quot;http://polygraph.cool/films/&quot;&gt;un análisis excelente&lt;/a&gt; que usa los guiones de unas 2000 películas para mostrar la impresionante subrepresentación de las mujeres en las películas de Hollywood. Recientemente un &lt;a href=&quot;https://medium.freecodecamp.com/women-only-said-27-of-the-words-in-2016s-biggest-movies-955cb480c3c4#.ju8iav839&quot;&gt;artículo similar&lt;/a&gt; concluyó que de las 10 películas con más recaudación de 2016, sólo el 27% del diálogo fue dicho por pesonajes femeninos. La autora, Amber Thomas, se merece todo el crédito no sólo por haber compilado la información sino por &lt;a href=&quot;https://github.com/ProQuestionAsker/2016MovieDialogue&quot;&gt;hacer públicos los datos&lt;/a&gt;, los cuales decidí descargar para mirarlos por mi cuenta.&lt;/p&gt;
@@ -142,7 +333,7 @@ Ojo: que ambas líneas tengan magnitud similar no signifca que la cantidad de pe
 		
 			<item>
 				<title>Publicidad encubierta de Casancrem</title>
-				        
+				   
 					<description>&lt;p&gt;Hoy tenía que hacer algo de comer y como recién vuelvo de festejar navidad lejos de casa, estaba con la heladera casi vacía y pocas cosas en la alacena. Sin saber qué cocinar, se me ocurrió buscar alguna página en la que uno ponga los ingredientes que tiene y te tire recetas posibles. Obviamente eso existe y me dio la idea de hacer papas rellenas. Como la receta en ese lugar no me convencía y estaba en inglés (puedo leer papers técnicos, pero no me se los nombres de las verduras) decidí googlear “receta papa rellena”. ¡Mi sorpresa al ver que Google, en toda su gloria, me muestra un listado de ingredientes y un link a una web que afirma tener la Receta Oficial® de papa rellena.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/papa_rellena.jpg&quot; alt=&quot;papa rellena&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
@@ -166,7 +357,7 @@ Ojo: que ambas líneas tengan magnitud similar no signifca que la cantidad de pe
 		
 			<item>
 				<title>Gracias por coger</title>
-				        
+				   
 					<description>&lt;p&gt;No es un secreto que el feminismo tiene una relación complicada con la prostitución. Esto no es raro ya que es un tema donde convergen un número de valores y cuestiones contrapuestas y distintas personas razonables pueden tener opiniones distintas. Pero lo que me llama la atención al leer la entrada de &lt;a href=&quot;http://plato.stanford.edu/entries/feminist-sex-markets/#Pro&quot;&gt;Perspectivas feministas en el mercado sexual&lt;/a&gt; de la Enciclopedia de Filosofía de Standford es una temática que se repite mucho, y no sólo entre los abolicionistas.&lt;/p&gt;
 
 &lt;p&gt;Muchos argumentos a favor de la prohibición de la prostitución están anclados en una idea “sagrada” del sexo. Se basan en que la autonomía sexual es fundamental para la persona o que la sexualidad es parte integral de la identidad propia y que, por lo tanto, no debe cederse a cambio de dinero. Dejando de lado otros argumentos y problemáticas sobre la prostitución y sin pretender tener analizar la cuestión en general, no entiendo cómo esta idea tiene tanta tracción.&lt;/p&gt;
@@ -196,7 +387,7 @@ Ojo: que ambas líneas tengan magnitud similar no signifca que la cantidad de pe
 		
 			<item>
 				<title>Cowspiracy: el documental que no vale la pena ver</title>
-				        
+				   
 					<description>&lt;p&gt;Cowspiracy es una película sobre veganismo. En particular, una película que busca convencer a su audiencia de que lo mejor que puede hacer para salvar el medio ambiente es dejar de comer carne y todo producto derivado de los animales. Como vegetariano, tengo un cierto grado de afinidad por esa tesis; se puede elegir, es preferible una dieta que implique la menor cantidad de sufrimiento y muerte animal posible. Pero como persona racional con respeto a la verdad, Cowspiracy es un claro ejemplo de por qué no hay que usar documentales para informarse sobre temas controvertidos.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/cows.jpg&quot; alt=&quot;vaca&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
@@ -248,7 +439,7 @@ Cómo se le ocurre pensar que no existe una única solución fácil para todo.&l
 		
 			<item>
 				<title>El Caos</title>
-				        
+				   
 					<description>&lt;p&gt;Es algo que todos sabemos. Desde que somos chicos, nuestros padres nos advierten de las terribles consecuencias de viajar en el tiempo. “Cualquier minúsculo cambio en el pasado” -dice el clásico cuento para dormir- “puede cambiar por completo la historia como la conocemos”. Y está claro por qué sucede esto: el Universo, creemos, es un sistema caótico.&lt;/p&gt;
 
 &lt;p&gt;Y es así como desde nuestra más tierna infancia se nos enseñan las ecuaciones diferenciales que componen el &lt;a href=&quot;https://es.wikipedia.org/wiki/Atractor_de_Lorenz&quot;&gt;Sistema de Lorenz&lt;/a&gt;; uno de los ejemplos más elegantes de sistema caótico en el cual pequeñas diferencias en las condiciones iniciales resultan en enormes diferencias en las condiciones finales en muy poco tiempo. No falta en la cuna de ningún niño un peluche representando al &lt;i&gt;atractor&lt;/i&gt; que le corresponde y que representa las &lt;i&gt;trayectorias&lt;/i&gt; estables del sistema.&lt;/p&gt;
@@ -296,7 +487,7 @@ Cómo se le ocurre pensar que no existe una única solución fácil para todo.&l
 		
 			<item>
 				<title>No vale la pena</title>
-				        
+				   
 					<description>&lt;p&gt;El mes pasado, el diario La Nación publicaba &lt;a href=&quot;http://www.lanacion.com.ar/1880841-educacion-vale-la-pena-estudiar-una-carrera-en-la-universidad&quot; target=&quot;_blank&quot;&gt;una nota&lt;/a&gt; donde reportaba sobre una conferencia dada en el Global Education &amp;amp; Skills Forum en donde se dio el debate del rol de las universidades como formadores de profesionales. El resumen: según algunos expertos, los títulos universitarios son “irrelevantes” a la hora de conseguir empleo y se debe repensar qué es lo que se enseña en la universidad e incluso considerar otros modelos distintos al del universitario.&lt;/p&gt;
 
 &lt;p&gt;Dentro del clima político de nuestro país, el artículo fue recibido con indignación por parte de un grupo de la sociedad que percibió intenciones ocultas en el tono del mismo. Las acusaciones de que “La Nación nos quiere tontos y sin educación” acompañaban al link en Facebook y Twitter. Tal fue la indignación que en el blog de Educando al Cerebro, Fabricio Ballarini y Pedro Bekinschtein decidieron escribir &lt;a href=&quot;http://www.educandoalcerebro.com.ar/#!notas/zrqd7&quot; target=&quot;_blank&quot;&gt;una respuesta&lt;/a&gt; donde buscan usar la evidencia científica para responder al interrogante del titular. “Por vos, por tu salud, por tu cerebro, por tus hijos, por un mundo mejor definitivamente VALE LA PENA IR A LA UNIVERSIDAD” termina triunfante. Sin embargo no hace falta más que un análisis superficial para concluir que no, no vale a pena defender a la universidad usando pobre evidencia y falacias lógicas.&lt;/p&gt;
@@ -332,3 +523,79 @@ Cómo se le ocurre pensar que no existe una única solución fácil para todo.&l
 		
 	</channel>
 </rss>
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+      </footer>
+
+      
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Seguir:</strong></li>
+    
+    
+      <li><a href="https://twitter.com/d_olivaw"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    
+    
+      <li><a href="https://facebook.com/legosalogos"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+    
+    
+    
+    <li><a href="https://legosalogos.github.io/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2017 Elio Campitelli. Gracias a <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    <script src="https://legosalogos.github.io/assets/js/main.min.js"></script>
+
+
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', '']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+
+
+
+  </body>
+</html>
