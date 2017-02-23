@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
-		<title>Elio Campitelli</title>
-		<description>Escepticismo</description>		
+		<title>De Legos a Logos</title>
+		<description>Un blog de un lego tratando de llegar a logos.</description>		
 		<link>https://legosalogos.github.io</link>
 		<atom:link href="https://legosalogos.github.io/feed-mailchimp.xml" rel="self" type="application/rss+xml" />
 		
@@ -12,11 +12,11 @@
 
 				
 
-				<media:content url="https://legosalogos.github.io/figure/source/2017-01-22-2016-temperatura/temperatura-global-1.png" width="400px" medium="image"/>   
-					<description>Por tercer año consecutivo se rompe un record mundial. El clima está tomando esteroides</description>
+				<media:content url="https://legosalogos.github.io/figure/source/2017-01-22-2016-temperatura/temperatura-global-1.png" width="400" medium="image"/>   
+					<description>Por tercer año consecutivo se rompe un record mundial. El clima está tomando esteroides.</description>
 				<pubDate>Tue, 31 Jan 2017 00:00:00 -0300</pubDate>
-				<link>https://legosalogos.github.io/2017/2016-temperatura/</link>
-				<guid isPermaLink="true">https://legosalogos.github.io/2017/2016-temperatura/</guid>
+				<link>https://legosalogos.github.io/2016-temperatura/</link>
+				<guid isPermaLink="true">https://legosalogos.github.io/2016-temperatura/</guid>
 			</item>
 		
 			<item>
@@ -25,11 +25,11 @@
 
 				
 
-				<media:content url="https://legosalogos.github.io/assets/images/teaser_personajes_femeninos.jpg" width="400px" medium="image"/>   
+				<media:content url="https://legosalogos.github.io/assets/images/teaser_personajes_femeninos.jpg" width="400" medium="image"/>   
 					<description>En las 10 películas más taquilleras de 2016, las mujeres dijeron sólo el 26% del diálogo.</description>
 				<pubDate>Tue, 31 Jan 2017 00:00:00 -0300</pubDate>
-				<link>https://legosalogos.github.io/2017/personajes/</link>
-				<guid isPermaLink="true">https://legosalogos.github.io/2017/personajes/</guid>
+				<link>https://legosalogos.github.io/personajes/</link>
+				<guid isPermaLink="true">https://legosalogos.github.io/personajes/</guid>
 			</item>
 		
 			<item>
@@ -38,11 +38,11 @@
 
 				
 
-				<media:content url="https://legosalogos.github.io/assets/images/papa_rellena_small.jpg" width="400px" medium="image"/>   
+				<media:content url="https://legosalogos.github.io/assets/images/papa_rellena_small.jpg" width="400" medium="image"/>   
 					<description>La inocente búsqueda de una receta puede llevarte a contaminar tus ojos con malvada publicidad.</description>
 				<pubDate>Wed, 28 Dec 2016 00:00:00 -0300</pubDate>
-				<link>https://legosalogos.github.io/2016/casancem/</link>
-				<guid isPermaLink="true">https://legosalogos.github.io/2016/casancem/</guid>
+				<link>https://legosalogos.github.io/casancem/</link>
+				<guid isPermaLink="true">https://legosalogos.github.io/casancem/</guid>
 			</item>
 		
 			<item>
@@ -51,11 +51,11 @@
 
 				
 
-				<media:content url="https://legosalogos.github.io/assets/images/sex_teaser.jpg" width="400px" medium="image"/>   
+				<media:content url="https://legosalogos.github.io/assets/images/sex_teaser.jpg" width="400" medium="image"/>   
 					<description>El feminismo abolicionista y sus resabios conservadores.</description>
 				<pubDate>Wed, 28 Dec 2016 00:00:00 -0300</pubDate>
-				<link>https://legosalogos.github.io/2016/gracias_por_coger/</link>
-				<guid isPermaLink="true">https://legosalogos.github.io/2016/gracias_por_coger/</guid>
+				<link>https://legosalogos.github.io/gracias_por_coger/</link>
+				<guid isPermaLink="true">https://legosalogos.github.io/gracias_por_coger/</guid>
 			</item>
 		
 			<item>
@@ -64,11 +64,11 @@
 
 				
 
-				<media:content url="https://legosalogos.github.io/assets/images/teaser_cowspiracy.jpg" width="400px" medium="image"/>   
+				<media:content url="https://legosalogos.github.io/assets/images/teaser_cowspiracy.jpg" width="400" medium="image"/>   
 					<description>¿Es correcto defender el veganismo y la lucha contra el cambio climático usando datos falsos o engañosos? (No. La respuesta es no)</description>
 				<pubDate>Tue, 23 Aug 2016 00:00:00 -0300</pubDate>
-				<link>https://legosalogos.github.io/2016/Cowspiracy/</link>
-				<guid isPermaLink="true">https://legosalogos.github.io/2016/Cowspiracy/</guid>
+				<link>https://legosalogos.github.io/Cowspiracy/</link>
+				<guid isPermaLink="true">https://legosalogos.github.io/Cowspiracy/</guid>
 			</item>
 		
 			<item>
@@ -77,11 +77,11 @@
 
 				
 
-				<media:content url="https://legosalogos.github.io/assets/images/teaser_caos.jpg" width="400px" medium="image"/>   
+				<media:content url="https://legosalogos.github.io/assets/images/teaser_caos.jpg" width="400" medium="image"/>   
 					<description>El aleteo de una mariposa en Japón puede causar un artículo medio caótico.</description>
 				<pubDate>Sun, 03 Jul 2016 00:00:00 -0300</pubDate>
-				<link>https://legosalogos.github.io/2016/Caos/</link>
-				<guid isPermaLink="true">https://legosalogos.github.io/2016/Caos/</guid>
+				<link>https://legosalogos.github.io/Caos/</link>
+				<guid isPermaLink="true">https://legosalogos.github.io/Caos/</guid>
 			</item>
 		
 			<item>
@@ -90,11 +90,11 @@
 
 				
 
-				<media:content url="https://legosalogos.github.io/assets/images/teaser_novale.jpg" width="400px" medium="image"/>   
+				<media:content url="https://legosalogos.github.io/assets/images/teaser_novale.jpg" width="400" medium="image"/>   
 					<description>No vale la pena defender la educación universitaria con falacias.</description>
 				<pubDate>Tue, 19 Apr 2016 00:00:00 -0300</pubDate>
-				<link>https://legosalogos.github.io/2016/No-vale-la-pena/</link>
-				<guid isPermaLink="true">https://legosalogos.github.io/2016/No-vale-la-pena/</guid>
+				<link>https://legosalogos.github.io/No-vale-la-pena/</link>
+				<guid isPermaLink="true">https://legosalogos.github.io/No-vale-la-pena/</guid>
 			</item>
 		
 	</channel>
