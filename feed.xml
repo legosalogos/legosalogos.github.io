@@ -23,11 +23,11 @@
 &lt;p&gt;Claro que, como todo en ciencia, hay ciertas sutilezas. Hay varias organizaciones que tienen un registro de la temperatura media global, la NASA publica &lt;a href=&quot;https://data.giss.nasa.gov/gistemp/&quot;&gt;GISTEM&lt;/a&gt;, la NOAA tiene &lt;a href=&quot;https://www.ncdc.noaa.gov/&quot;&gt;el suyo&lt;/a&gt; y también está el del Servicio Meteorológico del Reino Unido, &lt;a href=&quot;http://www.metoffice.gov.uk/hadobs/hadcrut4/&quot;&gt;HadCRUT&lt;/a&gt;. Si bien el año fue récord en todos ellos, no lo fue por el mismo margen. Cada grupo usa distintos métodos y fuentes de datos y eso explica las pequeñas diferencias. Lo principal es cómo se rellenan los huecos de información que en el Ártico. HadCRUT4 y NOAA  directamente lo dejan sin rellenar lo que, a los efectos de la  temperatura media anual, es equivalente a suponer que el calentamiento en el Ártico es igual a la media global. Pero esto está muy lejos de la verdad.&lt;/p&gt;
 
 &lt;p class=&quot;align-center&quot;&gt;&lt;img src=&quot;/figure/tendencia-global-1.png&quot; alt=&quot;plot of chunk tendencia-global&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;Aumento decadal de la temperatura para el píerodo 1950-2016 según GISTEMP.&lt;/figcaption&gt;
+&lt;figcaption&gt;Aumento decadal de la temperatura para el período 1950-2016 según GISTEMP.&lt;/figcaption&gt;
 
 &lt;p&gt;Como se ve, las altas latitudes, particularmente el Ártico, están aumentando su temperatura a una tasa mucho mayor que la global. GISTEMP trata de tener en cuenta este hecho extrapolando las anomalías de temperatura a partir de estaciones costeras en latitudes más bajas. Este hecho explica que en este registro de temperatura 2016 haya roto el récord del año anterior por tanto margen mientras que según HadCRUT y NOAA la diferencia no fue tan grande.&lt;/p&gt;
 
-&lt;p&gt;Pero que el árbol no nos haga perder el bosque. En realidad no importa que este año haya sido récord de temperara, al igual que el año anterior y el año anterior a ese, lo que importa es la &lt;em&gt;tendencia&lt;/em&gt; general. Y esta es clara: el aumento de la temperatura global sigue su ritmo de aproximadamente 0.17 ºC/década.&lt;/p&gt;
+&lt;p&gt;Pero que el árbol no nos haga perder el bosque. En realidad no importa que este año haya sido récord de temperatura, al igual que el año anterior y el año anterior a ese, lo que importa es la &lt;em&gt;tendencia&lt;/em&gt; general. Y esta es clara: el aumento de la temperatura global sigue su ritmo de aproximadamente 0.17 ºC/década.&lt;/p&gt;
 
 &lt;h2 id=&quot;el-nio&quot;&gt;El niño&lt;/h2&gt;
 
@@ -60,7 +60,7 @@
 &lt;p class=&quot;align-center&quot;&gt;&lt;img src=&quot;/figure/gistem_vs_cmip5-1.png&quot; alt=&quot;plot of chunk gistem_vs_cmip5&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Anomalía de la temperatura media global y rango de proyecciones de los modelos del CMPI5 (intervalo de confianza de 95%). Todos con respecto al período 1970-2005.&lt;/figcaption&gt;
 
-&lt;p&gt;Pero es muy difícil decir que son buenos o malos con un período tan corto de tiempo. Los modelos del proyecto CMPI5 recién pueden tomarse como predictivos a partir de 2005. Podemos tomar una serie de modelos más viejos y actualizar la comparación que hice hace 4 años &lt;a href=&quot;https://legosalogos.github.io/los-modelos-climaticos-son-confiables/&quot;&gt;en este mismo blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pero es muy difícil decir que son buenos o malos con un período tan corto de tiempo. Los modelos del proyecto CMPI5 recién pueden tomarse como predictivos a partir de 2005. Podemos tomar una serie de modelos más viejos y actualizar la comparación que hice hace 4 años &lt;a href=&quot;http://legosalogos.blogspot.com.ar/2012/07/los-modelos-climaticos-son-confiables.html&quot;&gt;en este mismo blog&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;En 1988, James Hansen publicó los resultados de un modelo climático que proyectaba un importante aumento de las temperaturas globales. Consideró 3 escenarios distintos de cómo podrían evolucionar las emisiones de CO2 y otros forzantes climáticos, y las emisiones reales estuvieron más o menos en el medio; menores que su escenario más pesimitas pero mayores que el maś optimista.&lt;/p&gt;
 
@@ -75,7 +75,7 @@
 
 &lt;p&gt;Es casi una certeza que 2017 no va a romper otro récord de temperatura. Es lo esperable. Aún en un contexto de calentamiento global, la variabilidad interna implica que cada año no va a ser más cálido que el anterior. Muy probablemente, los negacionistas van a agarrase de eso para negar o minimizar el calentamiento global. Esa es mi predicción para este año.&lt;/p&gt;
 </description>
-				<pubDate>Sat, 25 Feb 2017 00:00:00 -0300</pubDate>
+				<pubDate>Mon, 20 Feb 2017 00:00:00 -0300</pubDate>
 				<link>https://legosalogos.github.io/2016-temperatura/</link>
 				<guid isPermaLink="true">https://legosalogos.github.io/2016-temperatura/</guid>
 			</item>
