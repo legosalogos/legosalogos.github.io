@@ -62,7 +62,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2017-02-20T00:00:00-03:00">
+  <meta property="article:published_time" content="2017-02-25T00:00:00-03:00">
 
 
 
@@ -338,7 +338,7 @@
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     <meta itemprop="headline" content="El año más caliente">
     <meta itemprop="description" content="Por tercer año consecutivo se rompe un record mundial. El clima está tomando esteroides.">
-    <meta itemprop="datePublished" content="February 20, 2017">
+    <meta itemprop="datePublished" content="February 25, 2017">
     
 
     <div class="page__inner-wrap">
@@ -347,12 +347,12 @@
       <section class="page__content" itemprop="text">
         <p>Por tercer año consecutivo tenemos un récord de temperatura global. No fue una gran sorpresa para nadie, ya se sabía que iba a ser así desde mediados de 2016 cuando la temperatura global era tan alta que nada de lo que pasara después podía revertir el récord. Y efectivamente así fue.</p>
 
-<p class="full"><img src="/figure/source/2017-01-22-2016-temperatura/temperatura-global-1.png" alt="Temperatura" /></p>
+<p class="full"><img src="/figure/temperatura-global-1.png" alt="Temperatura" /></p>
 <figcaption>Anomalía de temperatura media global con respecto a la media del período 1970-2005. En línea punteada se muestra un suavizado utilizando regresión local. </figcaption>
 
 <p>Claro que, como todo en ciencia, hay ciertas sutilezas. Hay varias organizaciones que tienen un registro de la temperatura media global, la NASA publica <a href="https://data.giss.nasa.gov/gistemp/">GISTEM</a>, la NOAA tiene <a href="https://www.ncdc.noaa.gov/">el suyo</a> y también está el del Servicio Meteorológico del Reino Unido, <a href="http://www.metoffice.gov.uk/hadobs/hadcrut4/">HadCRUT</a>. Si bien el año fue récord en todos ellos, no lo fue por el mismo margen. Cada grupo usa distintos métodos y fuentes de datos y eso explica las pequeñas diferencias. Lo principal es cómo se rellenan los huecos de información que en el Ártico. HadCRUT4 y NOAA  directamente lo dejan sin rellenar lo que, a los efectos de la  temperatura media anual, es equivalente a suponer que el calentamiento en el Ártico es igual a la media global. Pero esto está muy lejos de la verdad.</p>
 
-<p class="align-center"><img src="/figure/source/2017-01-22-2016-temperatura/tendencia-global-1.png" alt="plot of chunk tendencia-global" /></p>
+<p class="align-center"><img src="/figure/tendencia-global-1.png" alt="plot of chunk tendencia-global" /></p>
 <figcaption>Aumento decadal de la temperatura para el píerodo 1950-2016 según GISTEMP.</figcaption>
 
 <p>Como se ve, las altas latitudes, particularmente el Ártico, están aumentando su temperatura a una tasa mucho mayor que la global. GISTEMP trata de tener en cuenta este hecho extrapolando las anomalías de temperatura a partir de estaciones costeras en latitudes más bajas. Este hecho explica que en este registro de temperatura 2016 haya roto el récord del año anterior por tanto margen mientras que según HadCRUT y NOAA la diferencia no fue tan grande.</p>
@@ -365,15 +365,15 @@
 
 <p>El Niño es un patrón de oscilación muy importante en la atmósfera que básicamente se caracteriza por un aumento en la temperatura superficial del agua en el Pacífico Ecuatorial. Está conectado con un montón de fenómenos al rededor del globo (como mayor precipitación en el sureste de Sudamérica) pero a nivel global tiene la consecuencia de elevar la temperatura durante uno o dos años.</p>
 
-<p>Es cierto que El Niño de 2015/2016 fue excepcionalmente intenso y tuvo una gran influencia en las temperaturas globales. Pero decir que el el récord se debe únicamente a la influencia de El Niño es falso o engañoso. Si le restamos la influencia de El Niño al registro de temperatura global GISTEMP sigue teniendo a 2016 como el año más caliente, aunque con un margen reducido.</p>
+<p>Es cierto que El Niño de 2015/2016 fue excepcionalmente intenso y tuvo una gran influencia en las temperaturas globales. Pero decir que el el récord se debe únicamente a la influencia de El Niño es falso o engañoso. Si le restamos la influencia de El Niño al registro de temperatura global GISTEMP, 2016 y 2015 están prácticamente empatados como años más cálidos.</p>
 
-<p class="full"><img src="/figure/source/2017-01-22-2016-temperatura/correccion_enso-1.png" alt="plot of chunk correccion_enso" /></p>
+<p class="full"><img src="/figure/correccion_enso-1.png" alt="plot of chunk correccion_enso" /></p>
 
 <p class="notice">Cabe señalar que estimar el efecto de El Niño en la temperatura global no es cosa trivial y hay distintas formas de hacerlo que pueden dar resultados ligeramente diferentes.</p>
 
-<p>Por otro lado la <em>tendencia</em>, que es lo que importa, se mantiene inalterada. Y lo mismo se puede decir para HadCRUT y NOAA, salvo que en esos casos 2016 es el segundo año más cálido si se tiene en cuenta la influencia de El Niño.</p>
+<p>Por otro lado la <em>tendencia</em>, que es lo que importa, se mantiene inalterada. Y lo mismo se puede decir para HadCRUT y NOAA.</p>
 
-<p>La conclusión es clara. Tanto El Niño como otros fenómenos de la variabilidad interna del clima, sólo afectan las perturbaciones temporarias, pero no la tendencia global.</p>
+<p>La conclusión es clara. Tanto El Niño como otros fenómenos de la variabilidad interna del clima sólo afectan las perturbaciones temporarias, pero no la tendencia global.</p>
 
 <h2 id="como-lo-predijo-la-profesa">Como lo predijo la profesía</h2>
 
@@ -387,7 +387,7 @@
 
 <p>Peo aún ignorando todos esos problemas y haciendo una comparación <em>naive</em>, podemos ver que la temperatura global se mantuvo dentro de lo proyectado (el área sombreada indica el intervalo de confianza del 95%).</p>
 
-<p class="align-center"><img src="/figure/source/2017-01-22-2016-temperatura/gistem_vs_cmip5-1.png" alt="plot of chunk gistem_vs_cmip5" /></p>
+<p class="align-center"><img src="/figure/gistem_vs_cmip5-1.png" alt="plot of chunk gistem_vs_cmip5" /></p>
 <figcaption>Anomalía de la temperatura media global y rango de proyecciones de los modelos del CMPI5 (intervalo de confianza de 95%). Todos con respecto al período 1970-2005.</figcaption>
 
 <p>Pero es muy difícil decir que son buenos o malos con un período tan corto de tiempo. Los modelos del proyecto CMPI5 recién pueden tomarse como predictivos a partir de 2005. Podemos tomar una serie de modelos más viejos y actualizar la comparación que hice hace 4 años <a href="http://legosalogos.blogspot.com.ar/2012/07/los-modelos-climaticos-son-confiables.html">en este mismo blog</a>.</p>
@@ -396,7 +396,7 @@
 
 <p>El resultado es que las temperaturas globales están muy cercanas a las que proyectó Hansen hace casi 30 años.</p>
 
-<p class="align-center"><img src="/figure/source/2017-01-22-2016-temperatura/gis_vs_hansen-1.png" alt="plot of chunk gis_vs_hansen" /></p>
+<p class="align-center"><img src="/figure/gis_vs_hansen-1.png" alt="plot of chunk gis_vs_hansen" /></p>
 <figcaption>Anomalía de temperatura media global y proyecciones de Hansen 1988. Todos con respecto al período 1958-1988</figcaption>
 
 <p>Actualmente se considera que su modelo era demasiado sensible así que es entendible que haya sobreestimado un poco, pero es impresionante que un modelo tan rústico haya proyectado las temperaturas globales con tanta exactitud.</p>
@@ -433,7 +433,7 @@
 
 
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Actualizado:</strong> <time datetime="2017-02-20T00:00:00-03:00">February 20, 2017</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Actualizado:</strong> <time datetime="2017-02-25T00:00:00-03:00">February 25, 2017</time></p>
         
       </footer>
 
@@ -560,33 +560,6 @@
     </h1>
     
     <p class="archive__item-excerpt" itemprop="description">El feminismo abolicionista y sus resabios conservadores.
-</p>
-  </article>
-</div>
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <a href="https://legosalogos.github.io/Cowspiracy/" rel="permalink"><img src=
-          
-            "https://legosalogos.github.io/assets/images/teaser_cowspiracy.jpg"
-          
-          alt=""></a>
-      </div>
-    
-    <h1 class="archive__item-title" itemprop="headline">
-      
-        <a href="https://legosalogos.github.io/Cowspiracy/" rel="permalink">Cowspiracy: el documental que no vale la pena ver
-</a>
-      
-    </h1>
-    
-    <p class="archive__item-excerpt" itemprop="description">¿Es correcto defender el veganismo y la lucha contra el cambio climático usando datos falsos o engañosos? (No. La respuesta es no)
 </p>
   </article>
 </div>
