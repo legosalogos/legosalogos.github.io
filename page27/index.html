@@ -138,6 +138,20 @@
 <link rel="stylesheet" href="https://legosalogos.github.io/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<!-- katex -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js"></script>
+
+<style>
+  /* We want previews included so at least the TeX source is visible to clients
+     without Javascript, or without network connection
+     (new option in kramdown 1.6, enabled in _config.yml)
+     but we hide them if math rendering completes sucessfully. */
+  .MathJax_Preview { color: #888 }
+  .math_finished .MathJax_Preview { display: none }
+</style>
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
@@ -311,6 +325,32 @@
     
     <h3 class="archive__subtitle">Entradas recientes</h3>
 <div></div>
+
+  
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <a href="https://legosalogos.github.io/indios-dicen-haber-encontrado-moleculas/" rel="permalink"><img src=
+          
+            "http://lh5.ggpht.com/_ayOut9U6i70/SyqNKBg2y4I/AAAAAAAAAMg/iOp4pqJ4ycA/s72-c/091216-space-moon-hmed-1205p.widec_thumb%5B2%5D.jpg?imgmax=800"
+          
+          alt=""></a>
+      </div>
+    
+    <h1 class="archive__item-title" itemprop="headline">
+      
+        <a href="https://legosalogos.github.io/indios-dicen-haber-encontrado-moleculas/" rel="permalink">Indios dicen haber encontrado moléculas orgánicas en la Luna
+</a>
+      
+    </h1>
+    
+    <p class="archive__item-excerpt" itemprop="description"> En Slashdot reportan que la sonda Chandrayaan-1 podría haber encontrado rastros de materia orgánica en la Luna. El sitio que usan de fuente es un tal Space Fellowship. Como no conozco que tan conf...</p>
+  </article>
+</div>
 
   
 
@@ -524,32 +564,6 @@ Todos sabemos que los velociraptors, a diferencia de los zombies, pueden abrir p
   </article>
 </div>
 
-  
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <a href="https://legosalogos.github.io/aborto-para-neutralizar-el/" rel="permalink"><img src=
-          
-            "https://legosalogos.github.io/site_logo.png"
-          
-          alt=""></a>
-      </div>
-    
-    <h1 class="archive__item-title" itemprop="headline">
-      
-        <a href="https://legosalogos.github.io/aborto-para-neutralizar-el/" rel="permalink">“¿Aborto para neutralizar el calentamiento global?” o cómo sembrar miedo con deshonestidad intelectual.
-</a>
-      
-    </h1>
-    
-    <p class="archive__item-excerpt" itemprop="description">Leyendo un artículo que me llamó mucho la atención en mi lista de feeds. El título (“¿Aborto para neutralizar el calentamiento global?”) me pareció muy curioso. ¿Qué relación habría entre abortar e...</p>
-  </article>
-</div>
-
 
 
 <nav class="pagination">
@@ -611,12 +625,21 @@ Todos sabemos que los velociraptors, a diferencia de los zombies, pueden abrir p
         <li><a href="https://legosalogos.github.io/page29/">29</a></li>
       
     
+      
+        
+        
+        
+        <li><a href="https://legosalogos.github.io/page30/">30</a></li>
+      
+    
 
     
     
+      <li><a href="#" class="disabled">&hellip;</a></li>
+    
 
     
-      <li><a href="https://legosalogos.github.io/page30/">30</a></li>
+      <li><a href="https://legosalogos.github.io/page31/">31</a></li>
     
 
     
@@ -655,6 +678,21 @@ Todos sabemos que los velociraptors, a diferencia de los zombies, pueden abrir p
 
 <div class="page__footer-copyright">&copy; 2017 De Legos a Logos. Gracias a <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
+<script>
+    var scripts = document.getElementsByTagName("script");
+    for (var i = 0; i < scripts.length; i++) {
+      /* TODO: keep going after an individual parse error. */
+      var script = scripts[i];
+      if (script.type.match(/^math\/tex/)) {
+        var text = script.text === "" ? script.innerHTML : script.text;
+        var options = script.type.match(/mode\s*=\s*display/) ?
+                      {displayMode: true} : {};
+        script.insertAdjacentHTML("beforebegin",
+                                  katex.renderToString(text, options));
+      }
+    }
+    document.body.className += " math_finished";
+  </script>
       </footer>
     </div>
 

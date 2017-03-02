@@ -138,6 +138,20 @@
 <link rel="stylesheet" href="https://legosalogos.github.io/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<!-- katex -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js"></script>
+
+<style>
+  /* We want previews included so at least the TeX source is visible to clients
+     without Javascript, or without network connection
+     (new option in kramdown 1.6, enabled in _config.yml)
+     but we hide them if math rendering completes sucessfully. */
+  .MathJax_Preview { color: #888 }
+  .math_finished .MathJax_Preview { display: none }
+</style>
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
@@ -311,6 +325,32 @@
     
     <h3 class="archive__subtitle">Entradas recientes</h3>
 <div></div>
+
+  
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <a href="https://legosalogos.github.io/encuentro-del-circulo-esceptico/" rel="permalink"><img src=
+          
+            "http://lh6.ggpht.com/-Jcg6okdEPOA/TfVnkYwPUEI/AAAAAAAABaU/eabBnRQ1cB4/s72-c/Reuni%2525C3%2525B3n%252520esc%2525C3%2525A9ptica_thumb%25255B3%25255D.jpg?imgmax=800"
+          
+          alt=""></a>
+      </div>
+    
+    <h1 class="archive__item-title" itemprop="headline">
+      
+        <a href="https://legosalogos.github.io/encuentro-del-circulo-esceptico/" rel="permalink">Encuentro del Círculo Escéptico Argentino el 25 de junio en La Plata.
+</a>
+      
+    </h1>
+    
+    <p class="archive__item-excerpt" itemprop="description">El 28 de mayo con el Círculo Escéptico Argentino organizamos un encuentro en Buenos Aires. Para repetir la experiencia, el 25 de junio nos encontramos en La Plata. Toda la ínformación está en el bl...</p>
+  </article>
+</div>
 
   
 
@@ -522,32 +562,6 @@ La acupuntura es una bestia un poco enigmática. Sus raíces bien aferradas en i
   </article>
 </div>
 
-  
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <a href="https://legosalogos.github.io/el-cometa-elenin-no-va-destruir-la/" rel="permalink"><img src=
-          
-            "http://lh6.ggpht.com/_ayOut9U6i70/TZPgC6c3vzI/AAAAAAAABYo/OP5ZiCSpntc/s72-c/MbnNI_thumb%5B2%5D.gif?imgmax=800"
-          
-          alt=""></a>
-      </div>
-    
-    <h1 class="archive__item-title" itemprop="headline">
-      
-        <a href="https://legosalogos.github.io/el-cometa-elenin-no-va-destruir-la/" rel="permalink">El cometa Elenin no va a destruir la Tierra.
-</a>
-      
-    </h1>
-    
-    <p class="archive__item-excerpt" itemprop="description">Hace mucho que no le doy con un palo a Rafapal y a Starviewer. Es que últimamente la carpeta de “Pseudociencias” en mi lector de feeds es la última que leo y la mayoría de las veces marco todo como...</p>
-  </article>
-</div>
-
 
 
 <nav class="pagination">
@@ -616,7 +630,7 @@ La acupuntura es una bestia un poco enigmática. Sus raíces bien aferradas en i
     
 
     
-      <li><a href="https://legosalogos.github.io/page30/">30</a></li>
+      <li><a href="https://legosalogos.github.io/page31/">31</a></li>
     
 
     
@@ -655,6 +669,21 @@ La acupuntura es una bestia un poco enigmática. Sus raíces bien aferradas en i
 
 <div class="page__footer-copyright">&copy; 2017 De Legos a Logos. Gracias a <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
+<script>
+    var scripts = document.getElementsByTagName("script");
+    for (var i = 0; i < scripts.length; i++) {
+      /* TODO: keep going after an individual parse error. */
+      var script = scripts[i];
+      if (script.type.match(/^math\/tex/)) {
+        var text = script.text === "" ? script.innerHTML : script.text;
+        var options = script.type.match(/mode\s*=\s*display/) ?
+                      {displayMode: true} : {};
+        script.insertAdjacentHTML("beforebegin",
+                                  katex.renderToString(text, options));
+      }
+    }
+    document.body.className += " math_finished";
+  </script>
       </footer>
     </div>
 

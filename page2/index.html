@@ -138,6 +138,20 @@
 <link rel="stylesheet" href="https://legosalogos.github.io/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<!-- katex -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js"></script>
+
+<style>
+  /* We want previews included so at least the TeX source is visible to clients
+     without Javascript, or without network connection
+     (new option in kramdown 1.6, enabled in _config.yml)
+     but we hide them if math rendering completes sucessfully. */
+  .MathJax_Preview { color: #888 }
+  .math_finished .MathJax_Preview { display: none }
+</style>
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
@@ -311,6 +325,32 @@
     
     <h3 class="archive__subtitle">Entradas recientes</h3>
 <div></div>
+
+  
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <a href="https://legosalogos.github.io/el-calentamiento-global-se-detuvo-en/" rel="permalink"><img src=
+          
+            "http://lh4.ggpht.com/-L0UtxeICZiY/UOHUK1ELWlI/AAAAAAAACy0/stNLdmurtn8/s72-c/Escalator_2012_500_thumb%25255B1%25255D.gif?imgmax=800"
+          
+          alt=""></a>
+      </div>
+    
+    <h1 class="archive__item-title" itemprop="headline">
+      
+        <a href="https://legosalogos.github.io/el-calentamiento-global-se-detuvo-en/" rel="permalink">¿El Calentamiento Global se detuvo en 1997?
+</a>
+      
+    </h1>
+    
+    <p class="archive__item-excerpt" itemprop="description">Este es un viejo meme de los negacionistas del cambio climático. Que hace 15/16/17 años que no hay calentamiento, que el calentamiento global se detuvo en 1995, o 1997, o 2002. ¡Este argumento incl...</p>
+  </article>
+</div>
 
   
 
@@ -524,32 +564,6 @@ Felicitaciones a todos los que trabajaron en ...</p>
   </article>
 </div>
 
-  
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <a href="https://legosalogos.github.io/el-metodo-crescenti/" rel="permalink"><img src=
-          
-            "http://lh4.ggpht.com/-rddONfjE5tI/T9eZiDZ8yNI/AAAAAAAACiM/8G0IyUWAdWg/s72-c/Aprobaci%2525C3%2525B3n%252520medicamentos_thumb.jpg?imgmax=800"
-          
-          alt=""></a>
-      </div>
-    
-    <h1 class="archive__item-title" itemprop="headline">
-      
-        <a href="https://legosalogos.github.io/el-metodo-crescenti/" rel="permalink">El “método Crescenti”.
-</a>
-      
-    </h1>
-    
-    <p class="archive__item-excerpt" itemprop="description">Hace un tiempo llegué al sitio web de un tal Instituto de Inmuno Oncología Dr. Ernesto J.V. Crescenti que ofrece un tratamiento contra el cáncer que, en sus palabras, “es lo mas cercano al tratamie...</p>
-  </article>
-</div>
-
 
 
 <nav class="pagination">
@@ -600,7 +614,7 @@ Felicitaciones a todos los que trabajaron en ...</p>
     
 
     
-      <li><a href="https://legosalogos.github.io/page30/">30</a></li>
+      <li><a href="https://legosalogos.github.io/page31/">31</a></li>
     
 
     
@@ -639,6 +653,21 @@ Felicitaciones a todos los que trabajaron en ...</p>
 
 <div class="page__footer-copyright">&copy; 2017 De Legos a Logos. Gracias a <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
+<script>
+    var scripts = document.getElementsByTagName("script");
+    for (var i = 0; i < scripts.length; i++) {
+      /* TODO: keep going after an individual parse error. */
+      var script = scripts[i];
+      if (script.type.match(/^math\/tex/)) {
+        var text = script.text === "" ? script.innerHTML : script.text;
+        var options = script.type.match(/mode\s*=\s*display/) ?
+                      {displayMode: true} : {};
+        script.insertAdjacentHTML("beforebegin",
+                                  katex.renderToString(text, options));
+      }
+    }
+    document.body.className += " math_finished";
+  </script>
       </footer>
     </div>
 

@@ -138,6 +138,20 @@
 <link rel="stylesheet" href="https://legosalogos.github.io/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<!-- katex -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js"></script>
+
+<style>
+  /* We want previews included so at least the TeX source is visible to clients
+     without Javascript, or without network connection
+     (new option in kramdown 1.6, enabled in _config.yml)
+     but we hide them if math rendering completes sucessfully. */
+  .MathJax_Preview { color: #888 }
+  .math_finished .MathJax_Preview { display: none }
+</style>
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
@@ -311,6 +325,34 @@
     
     <h3 class="archive__subtitle">Entradas recientes</h3>
 <div></div>
+
+  
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <a href="https://legosalogos.github.io/extrana-espiral-en-australia-cohete/" rel="permalink"><img src=
+          
+            "http://lh6.ggpht.com/_ayOut9U6i70/TA1DNgXm_9I/AAAAAAAAA9s/AtFYnLEWQOE/s72-c/falcon9_thumb%5B3%5D.jpg?imgmax=800"
+          
+          alt=""></a>
+      </div>
+    
+    <h1 class="archive__item-title" itemprop="headline">
+      
+        <a href="https://legosalogos.github.io/extrana-espiral-en-australia-cohete/" rel="permalink">Extraña espiral en Australia: ¿cohete privado?
+</a>
+      
+    </h1>
+    
+    <p class="archive__item-excerpt" itemprop="description">Los conspiranoicos no pueden hundirse más en su propia mugre. Esta vez, Starviewer, reporta idiotamente: 
+La Extraña espiral de Australia. SIDNEY. ¿Wormhole?
+Últimamente, la aparición de espirales ...</p>
+  </article>
+</div>
 
   
 
@@ -521,32 +563,6 @@ Esta es una nueva propaganda de McDonald’s en Francia. Muestra a un adolescent
   </article>
 </div>
 
-  
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <a href="https://legosalogos.github.io/inseguridad-y-pensamiento-critico-parte/" rel="permalink"><img src=
-          
-            "http://lh5.ggpht.com/_ayOut9U6i70/S_R5PBhwp9I/AAAAAAAAA80/ZqlAwYHbdRw/s72-c/image_thumb10.png?imgmax=800"
-          
-          alt=""></a>
-      </div>
-    
-    <h1 class="archive__item-title" itemprop="headline">
-      
-        <a href="https://legosalogos.github.io/inseguridad-y-pensamiento-critico-parte/" rel="permalink">Inseguridad y pensamiento crítico (parte 1).
-</a>
-      
-    </h1>
-    
-    <p class="archive__item-excerpt" itemprop="description">En mi experiencia leyendo blogs y escuchando podcasts sobre ciencia y escepticismo veo que existe una marcada reticencia a tratar temas políticos. Steven Novella de SGU sostiene que cuando se trata...</p>
-  </article>
-</div>
-
 
 
 <nav class="pagination">
@@ -615,7 +631,7 @@ Esta es una nueva propaganda de McDonald’s en Francia. Muestra a un adolescent
     
 
     
-      <li><a href="https://legosalogos.github.io/page30/">30</a></li>
+      <li><a href="https://legosalogos.github.io/page31/">31</a></li>
     
 
     
@@ -654,6 +670,21 @@ Esta es una nueva propaganda de McDonald’s en Francia. Muestra a un adolescent
 
 <div class="page__footer-copyright">&copy; 2017 De Legos a Logos. Gracias a <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
+<script>
+    var scripts = document.getElementsByTagName("script");
+    for (var i = 0; i < scripts.length; i++) {
+      /* TODO: keep going after an individual parse error. */
+      var script = scripts[i];
+      if (script.type.match(/^math\/tex/)) {
+        var text = script.text === "" ? script.innerHTML : script.text;
+        var options = script.type.match(/mode\s*=\s*display/) ?
+                      {displayMode: true} : {};
+        script.insertAdjacentHTML("beforebegin",
+                                  katex.renderToString(text, options));
+      }
+    }
+    document.body.className += " math_finished";
+  </script>
       </footer>
     </div>
 

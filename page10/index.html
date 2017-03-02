@@ -138,6 +138,20 @@
 <link rel="stylesheet" href="https://legosalogos.github.io/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<!-- katex -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js"></script>
+
+<style>
+  /* We want previews included so at least the TeX source is visible to clients
+     without Javascript, or without network connection
+     (new option in kramdown 1.6, enabled in _config.yml)
+     but we hide them if math rendering completes sucessfully. */
+  .MathJax_Preview { color: #888 }
+  .math_finished .MathJax_Preview { display: none }
+</style>
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
@@ -311,6 +325,32 @@
     
     <h3 class="archive__subtitle">Entradas recientes</h3>
 <div></div>
+
+  
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <a href="https://legosalogos.github.io/como-no-argumentar-en-contra-del-cambio/" rel="permalink"><img src=
+          
+            "http://lh4.ggpht.com/_ayOut9U6i70/TWHMWzWbqQI/AAAAAAAABTc/-dqlnWdwv00/s72-c/periodic%5B3%5D.gif?imgmax=800"
+          
+          alt=""></a>
+      </div>
+    
+    <h1 class="archive__item-title" itemprop="headline">
+      
+        <a href="https://legosalogos.github.io/como-no-argumentar-en-contra-del-cambio/" rel="permalink">Como NO argumentar en contra del Cambio Cliimático.
+</a>
+      
+    </h1>
+    
+    <p class="archive__item-excerpt" itemprop="description">Hace unos días llegué a un artículo posteado en la página de CFI Argentina con título: Por qué no soy un fan del Calentamiento Global. Es sabido que muchos defensores del escepticismo niegan la exi...</p>
+  </article>
+</div>
 
   
 
@@ -527,32 +567,6 @@ Recientemente le comenté a una amiga que iba a tomar parte en la ‘sobredosis�
   </article>
 </div>
 
-  
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <a href="https://legosalogos.github.io/el-sol-no-tiene-la-culpa-del/" rel="permalink"><img src=
-          
-            "http://lh6.ggpht.com/_ayOut9U6i70/TS4H2PI7oFI/AAAAAAAABSM/vg452mf3CPc/s72-c/screenshot.7_thumb%5B3%5D.jpg?imgmax=800"
-          
-          alt=""></a>
-      </div>
-    
-    <h1 class="archive__item-title" itemprop="headline">
-      
-        <a href="https://legosalogos.github.io/el-sol-no-tiene-la-culpa-del/" rel="permalink">El Sol no tiene la culpa del calentamiento global.
-</a>
-      
-    </h1>
-    
-    <p class="archive__item-excerpt" itemprop="description">Hay personas que sostienen que la principal causa del calentamiento global es, en vez de las actividades humanas, el Sol. En la superficie, parece una idea bastante lógica. Después de todo, vemos e...</p>
-  </article>
-</div>
-
 
 
 <nav class="pagination">
@@ -621,7 +635,7 @@ Recientemente le comenté a una amiga que iba a tomar parte en la ‘sobredosis�
     
 
     
-      <li><a href="https://legosalogos.github.io/page30/">30</a></li>
+      <li><a href="https://legosalogos.github.io/page31/">31</a></li>
     
 
     
@@ -660,6 +674,21 @@ Recientemente le comenté a una amiga que iba a tomar parte en la ‘sobredosis�
 
 <div class="page__footer-copyright">&copy; 2017 De Legos a Logos. Gracias a <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
+<script>
+    var scripts = document.getElementsByTagName("script");
+    for (var i = 0; i < scripts.length; i++) {
+      /* TODO: keep going after an individual parse error. */
+      var script = scripts[i];
+      if (script.type.match(/^math\/tex/)) {
+        var text = script.text === "" ? script.innerHTML : script.text;
+        var options = script.type.match(/mode\s*=\s*display/) ?
+                      {displayMode: true} : {};
+        script.insertAdjacentHTML("beforebegin",
+                                  katex.renderToString(text, options));
+      }
+    }
+    document.body.className += " math_finished";
+  </script>
       </footer>
     </div>
 

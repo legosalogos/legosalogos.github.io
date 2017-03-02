@@ -138,6 +138,20 @@
 <link rel="stylesheet" href="https://legosalogos.github.io/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<!-- katex -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js"></script>
+
+<style>
+  /* We want previews included so at least the TeX source is visible to clients
+     without Javascript, or without network connection
+     (new option in kramdown 1.6, enabled in _config.yml)
+     but we hide them if math rendering completes sucessfully. */
+  .MathJax_Preview { color: #888 }
+  .math_finished .MathJax_Preview { display: none }
+</style>
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
@@ -311,6 +325,32 @@
     
     <h3 class="archive__subtitle">Entradas recientes</h3>
 <div></div>
+
+  
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <a href="https://legosalogos.github.io/la-oms-institucionalizaria-el-doble/" rel="permalink"><img src=
+          
+            "http://lh6.ggpht.com/_ayOut9U6i70/TP2x0AjE7QI/AAAAAAAABRY/qcCxezeyPsY/s72-c/forense%5B5%5D.png?imgmax=800"
+          
+          alt=""></a>
+      </div>
+    
+    <h1 class="archive__item-title" itemprop="headline">
+      
+        <a href="https://legosalogos.github.io/la-oms-institucionalizaria-el-doble/" rel="permalink">La OMS institucionalizaría el doble estándar de la “medicina” alternativa.
+</a>
+      
+    </h1>
+    
+    <p class="archive__item-excerpt" itemprop="description">&#160; La Organización Mundial de la Salud planea crear una Clasificación Internacional de Medicinas Tradicionales (ICTM por sus siglas en inglés). Este vendría a ser un proyecto paralelo a la Clas...</p>
+  </article>
+</div>
 
   
 
@@ -524,32 +564,6 @@
   </article>
 </div>
 
-  
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <a href="https://legosalogos.github.io/el-tarot-de-la-ciencia/" rel="permalink"><img src=
-          
-            "http://lh5.ggpht.com/_ayOut9U6i70/TNrxmPeSKzI/AAAAAAAABPs/AHXDgZTecEQ/s72-c/wands13_qu_web_thumb%5B4%5D.jpg?imgmax=800"
-          
-          alt=""></a>
-      </div>
-    
-    <h1 class="archive__item-title" itemprop="headline">
-      
-        <a href="https://legosalogos.github.io/el-tarot-de-la-ciencia/" rel="permalink">El tarot de la ciencia.
-</a>
-      
-    </h1>
-    
-    <p class="archive__item-excerpt" itemprop="description"> Logan Daniel, Martin Azevedo y Raven Hanna son los creadores de una baraja de tarot inspirada en la ciencia. Esta unión, que superficialmente parecería un oxímoron, resulta en un set de cartas her...</p>
-  </article>
-</div>
-
 
 
 <nav class="pagination">
@@ -618,7 +632,7 @@
     
 
     
-      <li><a href="https://legosalogos.github.io/page30/">30</a></li>
+      <li><a href="https://legosalogos.github.io/page31/">31</a></li>
     
 
     
@@ -657,6 +671,21 @@
 
 <div class="page__footer-copyright">&copy; 2017 De Legos a Logos. Gracias a <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
+<script>
+    var scripts = document.getElementsByTagName("script");
+    for (var i = 0; i < scripts.length; i++) {
+      /* TODO: keep going after an individual parse error. */
+      var script = scripts[i];
+      if (script.type.match(/^math\/tex/)) {
+        var text = script.text === "" ? script.innerHTML : script.text;
+        var options = script.type.match(/mode\s*=\s*display/) ?
+                      {displayMode: true} : {};
+        script.insertAdjacentHTML("beforebegin",
+                                  katex.renderToString(text, options));
+      }
+    }
+    document.body.className += " math_finished";
+  </script>
       </footer>
     </div>
 

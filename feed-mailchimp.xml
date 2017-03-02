@@ -7,6 +7,19 @@
 		<atom:link href="https://legosalogos.github.io/feed-mailchimp.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Cómo calcular la distancia a la Luna usando sólo una foto</title>
+				
+
+				
+
+				<media:content url="https://legosalogos.github.io/assets/images/teaser_luna.jpg" width="400" medium="image"/>   
+					<description>Con un poco de geometría y sin naves espaciales podemos calcular la distancia a nuestro satélite natural.</description>
+				<pubDate>Thu, 02 Mar 2017 00:00:00 -0300</pubDate>
+				<link>https://legosalogos.github.io/distancia-luna-eclipse/</link>
+				<guid isPermaLink="true">https://legosalogos.github.io/distancia-luna-eclipse/</guid>
+			</item>
+		
+			<item>
 				<title>El año más caliente</title>
 				
 
@@ -30,19 +43,6 @@
 				<pubDate>Tue, 31 Jan 2017 00:00:00 -0300</pubDate>
 				<link>https://legosalogos.github.io/personajes/</link>
 				<guid isPermaLink="true">https://legosalogos.github.io/personajes/</guid>
-			</item>
-		
-			<item>
-				<title>Publicidad encubierta de Casancrem</title>
-				
-
-				
-
-				<media:content url="https://legosalogos.github.io/assets/images/papa_rellena_small.jpg" width="400" medium="image"/>   
-					<description>La inocente búsqueda de una receta puede llevarte a contaminar tus ojos con malvada publicidad.</description>
-				<pubDate>Wed, 28 Dec 2016 00:00:00 -0300</pubDate>
-				<link>https://legosalogos.github.io/casancem/</link>
-				<guid isPermaLink="true">https://legosalogos.github.io/casancem/</guid>
 			</item>
 		
 	</channel>
