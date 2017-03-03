@@ -62,7 +62,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2017-03-02T00:00:00-03:00">
+  <meta property="article:published_time" content="2017-03-03T00:00:00-03:00">
 
 
 
@@ -355,7 +355,7 @@
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     <meta itemprop="headline" content="Cómo calcular la distancia a la Luna usando sólo una foto">
     <meta itemprop="description" content="Con un poco de geometría y sin naves espaciales podemos calcular la distancia a nuestro satélite natural.">
-    <meta itemprop="datePublished" content="March 02, 2017">
+    <meta itemprop="datePublished" content="March 03, 2017">
     
 
     <div class="page__inner-wrap">
@@ -364,7 +364,7 @@
       <section class="page__content" itemprop="text">
         <p>Escribo esto pocos días después de un <a href="https://eclipse.gsfc.nasa.gov/SEgoogle/SEgoogle2001/SE2017Feb26Agoogle.html">eclipse anular de Sol</a> que pasó por el sur de Argentina. Desde Buenos Aires no se pudo ver mucho pero la iluminación disminuyó considerablemente y en las sombras de las hojas de los árboles se podía ver el Sol tapado. Pero a pesar de que se puede argumentar que el espectáculo fue peor que en el pueblito de <a href="https://es.wikipedia.org/wiki/Facundo_(Chubut)">Facundo</a>, donde fue el máximo, me permitió medir la distancia entre la Tierra y la Luna usando sólo una fotografía.</p>
 
-<p>Un eclipse solar se produce cuando la Luna se alinea con la Tierra y el Sol. Como la Luna es 400 veces más chica que el Sol (en diámetro) pero está 400 veces más cerca, sus tamaños aparentes son muy parecidos, dando lugar a que ésta tape todo el disco solar. En el caso de los eclipses anulares la Luna se encuentra un poco más cerca de la Tierra, haciendo que no logre tapar todo y se pueda observar un anillo.</p>
+<p>Un eclipse solar se produce cuando la Luna se alinea con la Tierra y el Sol. Como la Luna es 400 veces más chica que el Sol (en diámetro) pero está 400 veces más cerca, sus tamaños aparentes son muy parecidos, dando lugar a que ésta tape todo el disco solar. En el caso de los eclipses anulares la Luna se encuentra un poco más lejos de la Tierra, haciendo que no logre tapar todo y se pueda observar un anillo.</p>
 
 <p class="align-center"><img src="/assets/images/eclipse-anular-small.jpg" alt="eclipse anular" /></p>
 <figcaption>Así de vio el eclipse desde Facundo. <br />
@@ -407,13 +407,21 @@ Foto cortesía de Enzo de Bernardini, de <a href="http://www.surastronomico.com/
 <p class="full"><img src="/assets/images/medir-luna.jpg" alt="medición luna" /></p>
 <figcaption>A la izquierda, la foto del eclipse cerca del máximo corregida por perspectiva. A la derecha, una estimación de las posiciones de la Luna y el Sol con sus centros marcados.</figcaption>
 
-<p>Pero la separación en pixels no nos dice nada si no sabemos qué ángulo representa. Sabiendo que el disco solar cubre 0,53° del cielo y contando cuántos pixels representan en la imagen, se puede saber el ángulo de paralaje con un poco de regla de tres simple (que me dio unos 0,34°). Luego, considerando que la distancia entre Facundo y Buenos Aires es de 1.544 km se puede calcular la distancia a la Luna como</p>
+<p>Pero la separación en pixels no nos dice nada si no sabemos qué ángulo representa. Sabiendo que el disco solar cubre 0,53° del cielo y contando cuántos pixels representan en la imagen, se puede saber el ángulo de paralaje con un poco de regla de tres simple (que me dio unos <del>0,34°</del> 0,17°). Luego, considerando que la distancia entre Facundo y Buenos Aires es de 1.544 km se puede calcular la distancia a la Luna como</p>
 
-<script type="math/tex; mode=display">L = \frac{1.544 \; \mathrm{km}}{\tan(0,34\degree)} + 6.371 \; \mathrm{km} \sim 267.000 \; \mathrm{km}</script>
+<script type="math/tex; mode=display">L = \frac{1.544 \; \mathrm{km}}{\tan(0,17\degree)} + 6.371 \; \mathrm{km} \sim 526.000 \; \mathrm{km}</script>
 
 <p class="notice">El cálculo del paralaje da la distancia entre el centro de la Luna y la superficie de la Tierra. Para tener la distancia entre ambos centros hay que sumar el radio de la Tierra (6.371 km).</p>
 
-<p>La distancia real a la Luna, medida con lásers que se reflejan en espejos <a href="https://es.wikipedia.org/wiki/Laser_Ranging_Retro-Reflector">dejados allí por el programa Apollo</a> es de de 384,400 km. El error es de más de un 40%, lo cual no es muy bueno, pero satisfactorio si se tiene en cuenta todas las múltiples fuentes de error y demuestra que se puede medir la distancia a los astros sin gastar <a href="http://www.thespacereview.com/article/1579/1">110 mil millones de dólares </a> en mandar humanos hasta ahí.</p>
+<p>La distancia real a la Luna, medida con lásers que se reflejan en espejos <a href="https://es.wikipedia.org/wiki/Laser_Ranging_Retro-Reflector">dejados allí por el programa Apollo</a> es de de 384,400 km. El error es del orden de 40%, lo cual no es muy bueno, pero satisfactorio si se tiene en cuenta todas las múltiples fuentes de error y demuestra que se puede medir la distancia a los astros sin gastar <a href="http://www.thespacereview.com/article/1579/1">110 mil millones de dólares </a> en mandar humanos hasta ahí.</p>
+
+<h2 id="actualizacin">Actualización</h2>
+
+<p>Un lector me hizo notar que el cálculo del ángulo de paralaje estaba mal. La corrección hace que la medición sea una sobreestimación (aunque el orden del error es casi idéntico). Si se hace un modelo más realista, teniendo en cuenta la curvatura de la Tierra y la altura a la que estaba el Sol sobre el horizonte, se llega a una distancia de 241.000 km (el cálculo analítico es medio tedioso, así que yo hice algo muy cavernícola y simplemente dibujé el <a href="/assets/other/luna-real.dwg">esquema con las medidas reales</a> en AutoCAD y medí la distancia). El resultado es una subestimación y sigue siendo con un 40% de error, aproximadamente.</p>
+
+<p>Esto demuestra, me parece, que el problema principal no es el modelo que estamos usando sino que la medición del ángulo no es muy buena ni tampoco la suposición de que fue tomada precisamente en el momento del máximo. Haciendo el mismo ejercicio cavernícola con AutoCAD usando la distancia correcta a la Luna, da que el paralaje esperado es más bien de 0.10°. Considerando la mala calidad de la imagen (especialmente los problemas con la perspectiva) no creo que pueda usarse para medir el ángulo con tanta precisión.</p>
+
+<p>No se preocupen, en el <a href="http://xjubier.free.fr/en/site_pages/solar_eclipses/TSE_2019_GoogleMapFull.html">próximo eclipse</a> voy a tratar de hacerlo mejor.</p>
 
         
       </section>
@@ -443,7 +451,7 @@ Foto cortesía de Enzo de Bernardini, de <a href="http://www.surastronomico.com/
 
 
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Actualizado:</strong> <time datetime="2017-03-02T00:00:00-03:00">March 02, 2017</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Actualizado:</strong> <time datetime="2017-03-03T00:00:00-03:00">March 03, 2017</time></p>
         
       </footer>
 
