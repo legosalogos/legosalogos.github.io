@@ -7,6 +7,19 @@
 		<atom:link href="https://legosalogos.github.io/feed-mailchimp.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Nueva evidencia del cannabis medicinal para el Síndrome de Dravet</title>
+				
+
+				
+
+				<media:content url="https://legosalogos.github.io/assets/images/cannabidiol-dravet_small.png" width="400" medium="image"/>   
+					<description>Un ensayo clínico con todas las letras muestra efectos beneficiosos del cannabidiol para el Síndrome de Dravet.</description>
+				<pubDate>Fri, 26 May 2017 00:00:00 -0300</pubDate>
+				<link>https://legosalogos.github.io/cannabis-medicinal-epilepsia/</link>
+				<guid isPermaLink="true">https://legosalogos.github.io/cannabis-medicinal-epilepsia/</guid>
+			</item>
+		
+			<item>
 				<title>10 simples observaciones que muestran que la Tierra es redonda</title>
 				
 
@@ -30,19 +43,6 @@
 				<pubDate>Mon, 13 Mar 2017 00:00:00 -0300</pubDate>
 				<link>https://legosalogos.github.io/droga-medicinal/</link>
 				<guid isPermaLink="true">https://legosalogos.github.io/droga-medicinal/</guid>
-			</item>
-		
-			<item>
-				<title>Cómo calcular la distancia a la Luna usando sólo una foto</title>
-				
-
-				
-
-				<media:content url="https://legosalogos.github.io/assets/images/teaser_luna.jpg" width="400" medium="image"/>   
-					<description>Con un poco de geometría y sin naves espaciales podemos calcular la distancia a nuestro satélite natural.</description>
-				<pubDate>Fri, 03 Mar 2017 00:00:00 -0300</pubDate>
-				<link>https://legosalogos.github.io/distancia-luna-eclipse/</link>
-				<guid isPermaLink="true">https://legosalogos.github.io/distancia-luna-eclipse/</guid>
 			</item>
 		
 	</channel>
