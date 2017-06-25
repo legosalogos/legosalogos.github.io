@@ -7,6 +7,98 @@
 		<atom:link href="https://legosalogos.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Índice de libertad económica: No significa lo que creés que significa.</title>
+					<description>
+
+				
+
+          &lt;img src=&quot;https://legosalogos.github.io/assets/images/libertad-econ-small.jpg&quot; class=&quot;webfeedsFeaturedVisual&quot;&gt;
+
+
+						&lt;p&gt;Quien haya debatido con libertarianos (o liberales, o libertarios, o libertarians) más de una vez, seguramente se encontró con argumentos que utilizan como base algún “índice de libertad económica” como el de &lt;a href=&quot;heritage.org/index/explore?view=by-region-country-year&quot;&gt;The Heritage Foundation&lt;/a&gt; o el &lt;a href=&quot;https://www.fraserinstitute.org/studies/economic-freedom&quot;&gt;Fraser Institute&lt;/a&gt;. La idea es que cuando ves los rankings que publican, los países “más libres” son los “mejores”, o los más prósperos, o los que tienen más arcoíris y ponis, o alguna otra medida positiva.&lt;/p&gt;
+
+&lt;p&gt;Por ejemplo, tomando el PBI per cápita como una medida (limitada) de la riqueza de un país, puede verse que los países con un mayor índice de libertad económica suelen ser más ricos.&lt;/p&gt;
+
+&lt;p class=&quot;align-center&quot;&gt;&lt;img src=&quot;/figure/indice-libertad-score-pbi-1.png&quot; alt=&quot;plot of chunk score-pbi&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;En este gráfico y el siguiente, cada punto es un país. El ajuste lineal es sólo para ilustrar la tendencia. En realidad la relación no parece ser lineal.&lt;/p&gt;
+
+&lt;p&gt;Esto por sí sólo no significa que tener un mayor índice de libertad económica &lt;em&gt;cause&lt;/em&gt; que un país sea más rico (podría ser al revés, o que ambas variables estuvieran relacionadas con una tercera). Pero, curiosamente, tampoco significa necesariamente que la libertad económica esté relacionada con mayor riqueza. Es que si entramos en un poco de detalle de lo que es el “índice de libertad de económica”, vemos que poco tiene que ver con la libertad económica. Es, en palabras del sociólogo &lt;a href=&quot;https://twitter.com/danyscht/status/868234596655263744&quot;&gt;Daniel Schteingart&lt;/a&gt;, un “adefesio metodológico”.&lt;/p&gt;
+
+&lt;p&gt;Si nos concentramos en el índice de la Heritage Foundation (el del Fraser Institute es muy similar), vemos que &lt;a href=&quot;http://www.heritage.org/index/about&quot;&gt;se compone&lt;/a&gt; de 12 factores agrupados en 4 categorías.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Estado de Derecho
+    &lt;ul&gt;
+      &lt;li&gt;Derechos de propiedad&lt;/li&gt;
+      &lt;li&gt;Integridad del gobierno&lt;/li&gt;
+      &lt;li&gt;Efectividad judicial&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tamaño del Gobierno
+    &lt;ul&gt;
+      &lt;li&gt;Gasto gubernamental&lt;/li&gt;
+      &lt;li&gt;Carga impositiva&lt;/li&gt;
+      &lt;li&gt;Salud Fiscal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Eficiencia Regulatoria
+    &lt;ul&gt;
+      &lt;li&gt;Libertad de empresa&lt;/li&gt;
+      &lt;li&gt;Libertad de trabajo&lt;/li&gt;
+      &lt;li&gt;Libertad monetaria&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Apertura de Mercado
+    &lt;ul&gt;
+      &lt;li&gt;Libertad de intercambio&lt;/li&gt;
+      &lt;li&gt;Libertad de inversión&lt;/li&gt;
+      &lt;li&gt;Libertad financiera&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Ver que sólo 6 de los 12 factores que conforman un “índice de libertad económica” incluyen la palabra “libertad” ya debería hacernos sospechar. La realidad es que muchos de los factores que entran dentro del índice no parecieran estar relacionados específicamente con la libertad económica.&lt;/p&gt;
+
+&lt;p&gt;La categoría de “Integridad del gobierno”, por ejemplo, está formada por factores que tienen que ver con la ausencia de corrupción, la confianza en los políticos y la transparencia gubernamental. Nada de eso es algo inherentemente asociado a la libertad económica. Un gobierno puede ser absolutamente transparente e impoluto en su aplicaciones de leyes contrarias a la libertad económica o, al contrario, puede dejar piedra libre a la economía de mercado aún siendo corrupto y opaco en sus decisiones. Pasa lo mismo con la “Efectividad judicial”. Que un poder judicial sea independiente y justo no dice nada de sus actitudes acerca del mercado libre.&lt;/p&gt;
+
+&lt;p&gt;Si vamos la categoría del tamaño del gobierno, nos encontramos con otras cosas raras. Como es de esperable en un &lt;em&gt;think tank&lt;/em&gt; liberal, Heritage considera que lo mejor es un gobierno con nulo gasto. Es decir, el factor de gasto gubernamental “ideal” sería un gobierno que no gaste nada. Pero un gobierno sin gasto alguno no es un gobierno o, aún peor, es un gobierno que, por ejemplo, no puede garantizar un poder judicial efectivo. Además, la Salud Fiscal en principio no parecería ser un indicador del tamaño de un gobierno. Un gobierno grande puede tener poco déficit y tomar poca deuda.&lt;/p&gt;
+
+&lt;p&gt;Dejando de lado estos problemas, ¿cómo es que Heritage transforma un conjunto tan heterogéneo de componentes en un sólo número? Cada variable es normalizada de distintas formas aparentemente arbitrarias y luego promediada para obtener cada uno de los 12 factores, los cuales luego son promediados para obtener el puntaje final. ¿Por qué? ¿Cuál es la justificación de sumar, con igual peso, variables tan dispares como la carga impositiva y la percepción de corrupción?&lt;/p&gt;
+
+&lt;p&gt;Heritage está sumando la raíz cuadrada de peras con bananas y lo vende como un índice. Si se me permite &lt;a href=&quot;https://twitter.com/danyscht/status/855445598274805761&quot;&gt;citar nuevamente a Schteingart&lt;/a&gt;, es una falopa metodológica.&lt;/p&gt;
+
+&lt;p&gt;Es decir, ya desde el punto de vista conceptual el índice es sospechoso, pero si vamos a lo técnico la cosa se pone peor. En su &lt;a href=&quot;http://www.heritage.org/index/book/methodology#government-size&quot;&gt;página explicativa&lt;/a&gt;, Heritage afirma que “el gasto gubernamental tiene un gran impacto en la libertad económica”, pero si vemos la relación entre cada factor y el índice de libertad económica vamos a ver que esta afirmación es problemática.&lt;/p&gt;
+
+&lt;p class=&quot;full&quot;&gt;&lt;img src=&quot;/figure/indice-libertad-scatter_todos-1.png&quot; alt=&quot;plot of chunk scatter_todos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A simple vista podemos notar 3 factores que sobresalen. Las tres variables relacionadas con el tamaño del gobierno (Carga impositiva, Gasto gubernamental y Salud fiscal) tienen poco que ver con el índice de libertad económica. Es algo contraintuitivo, ¿no? Si el índice es un promedio de los factores, entonces ¿no cabría esperar que cada uno de ellos estuviera fuertemente relacionado con el total? No necesariamente. Por ejemplo, si alguno de los factores tuviera muy poca variabilidad, su efecto sería opacado por la variabilidad de los otros (como caso límite, uno puede pensar en un subíndice que sea igual para todos los países).&lt;/p&gt;
+
+&lt;p&gt;Lo que está sucediendo acá es que todos los otros factores están correlacionados entre ellos, mientras que los relacionados con el tamaño del gobierno no. Es como si yo armara un índice a partir de promediar el peso, la estatura, la ingesta calórica y el color de pelo de un grupo de personas. Los tres primeros factores están fuertemente correlacionados, mientras que el cuarto no tiene nada que ver.&lt;/p&gt;
+
+&lt;p&gt;Esto se ve claramente si calculamos la correlación entre cada factor y todos los demás.&lt;/p&gt;
+
+&lt;p class=&quot;align-center&quot;&gt;&lt;img src=&quot;/figure/indice-libertad-cross-cor-1.png&quot; alt=&quot;plot of chunk cross-cor&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;En este gráfico, cada punto representa la correlación (tamaño y color) entre cada índice y todos los demás. Los puntos en la diagonal no se muestran ya que es obvio que todo subíndice está perfectamente correlacionado consigo mismo. Además, como la correlación entre A y B es igual que la correlación entre B y A, los puntos por encima de la diagonal se repiten hacia la derecha de la diagonal.&lt;/p&gt;
+
+&lt;p&gt;La correlación entre la mayoría de los subíndices es positiva y grande, salvo para los relacionados con el tamaño del estado que ¡incluso llega a ser negativa! El problema del indicador de Salud Fiscal también aparece a la vista: está más relacionado con los indicadores del Estado de Derecho que con el del Tamaño del Gobierno.&lt;/p&gt;
+
+&lt;p&gt;Hay dos formas de interpretar el resultado. Si asumimos que el “índice de libertad económica” es un buen indicador de la “libertad económica” (y que el índice del tamaño del estado es un buen indicador del tamaño del estado), entonces estamos obligados a concluir que, en contra de lo que dice Heritage, el tamaño del estado &lt;em&gt;no afecta&lt;/em&gt; significativamente la libertad económica de un país. Por otro lado, si planteamos como cierto que el tamaño del estado tiene un efecto importante en la libertad económica, entonces tenemos que concluir que el índice de Heritage &lt;em&gt;no es un buen indicador&lt;/em&gt; de la libertad económica.&lt;/p&gt;
+
+&lt;p&gt;En una especie de &lt;a href=&quot;https://es.wikipedia.org/wiki/Reductio_ad_absurdum&quot;&gt;argumento por el absurdo&lt;/a&gt; acabamos de demostrar la inconsistencia del índice de The Heritage Foundation. El índice del Fraser Institute es similar y tiene los mismos problemas, por lo que no tiene sentido analizarlo por separado.&lt;/p&gt;
+
+&lt;p&gt;La respuesta correcta, me parece, es una mezcla de ambas. En mi opinión, varias variables usadas por Heritage sí podrían agruparse conceptualmente bajo la idea de “libertad económica”, pero no las relacionadas con el tamaño del gobierno. Podemos concluir entonces que el “índice de libertad económica” puede significar muchas cosas, pero ninguna de esas implican un gobierno pequeño y bajos impuestos.&lt;/p&gt;
+
+&lt;p&gt;La moraleja es no confiar en índices fumetas que meten variables arbitrariamente y hacen un promedio a lo bruto para obtener un número.&lt;/p&gt;
+
+</description>
+				<pubDate>Sun, 25 Jun 2017 00:00:00 -0300</pubDate>
+				<link>https://legosalogos.github.io/indice-libertad-economica/</link>
+				<guid isPermaLink="true">https://legosalogos.github.io/indice-libertad-economica/</guid>
+			</item>
+		
+			<item>
 				<title>Nueva evidencia del cannabis medicinal para el Síndrome de Dravet</title>
 					<description>
 
