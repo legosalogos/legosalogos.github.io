@@ -84,6 +84,10 @@
 
 &lt;p&gt;La correlación entre la mayoría de los subíndices es positiva y grande, salvo para los relacionados con el tamaño del estado que ¡incluso llega a ser negativa! El problema del indicador de Salud Fiscal también aparece a la vista: está más relacionado con los indicadores del Estado de Derecho que con el del Tamaño del Gobierno.&lt;/p&gt;
 
+&lt;p&gt;Para tener una idea de qué significa esto, podemos ver los ejemplos de países con un alto gasto gubernamental (lo que implica un &lt;strong&gt;bajo puntaje&lt;/strong&gt; en este factor) pero alta libertad económica. Y ver que este pequeño problemita justamente tiene que ver con países nordicos con altísima calidad de vida y desarrollo humano. Esto no es una gilada metodológica, es algo que va a la raiz de cómo organizar un Estado para el bienestar de sus habitantes.&lt;/p&gt;
+
+&lt;p class=&quot;align-center&quot;&gt;&lt;img src=&quot;/figure/indice-libertad-ejemplo-1.png&quot; alt=&quot;plot of chunk ejemplo&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Hay dos formas de interpretar el resultado. Si asumimos que el “índice de libertad económica” es un buen indicador de la “libertad económica” (y que el índice del tamaño del estado es un buen indicador del tamaño del estado), entonces estamos obligados a concluir que, en contra de lo que dice Heritage, el tamaño del estado &lt;em&gt;no afecta&lt;/em&gt; significativamente la libertad económica de un país. Por otro lado, si planteamos como cierto que el tamaño del estado tiene un efecto importante en la libertad económica, entonces tenemos que concluir que el índice de Heritage &lt;em&gt;no es un buen indicador&lt;/em&gt; de la libertad económica.&lt;/p&gt;
 
 &lt;p&gt;En una especie de &lt;a href=&quot;https://es.wikipedia.org/wiki/Reductio_ad_absurdum&quot;&gt;argumento por el absurdo&lt;/a&gt; acabamos de demostrar la inconsistencia del índice de The Heritage Foundation. El índice del Fraser Institute es similar y tiene los mismos problemas, por lo que no tiene sentido analizarlo por separado.&lt;/p&gt;
@@ -95,7 +99,7 @@
 &lt;p&gt;La moraleja es no confiar en índices fumetas que meten variables arbitrariamente y hacen un promedio a lo bruto para obtener un número.&lt;/p&gt;
 
 </description>
-				<pubDate>Sun, 25 Jun 2017 00:00:00 -0300</pubDate>
+				<pubDate>Wed, 28 Jun 2017 00:00:00 -0300</pubDate>
 				<link>https://legosalogos.github.io/indice-libertad-economica/</link>
 				<guid isPermaLink="true">https://legosalogos.github.io/indice-libertad-economica/</guid>
 			</item>
