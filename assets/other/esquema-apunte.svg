@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="233.378mm"
+   height="99.3366mm"
+   viewBox="0 0 928 395"
+   version="1.2"
+   id="svg24447"
+   sodipodi:docname="esquema-apunte.svg"
+   inkscape:version="0.92.2 (unknown)"
+   inkscape:export-filename="/home/elio/Blog/legosalogos.github.io/assets/images/esquema-apunte.png"
+   inkscape:export-xdpi="416.57999"
+   inkscape:export-ydpi="416.57999">
+  <metadata
+     id="metadata24451">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview24449"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="2.7662561"
+     inkscape:cx="316.35187"
+     inkscape:cy="26.940595"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24447" />
+  <title
+     id="title23701">Qt SVG Document</title>
+  <desc
+     id="desc23703">Generated with Qt</desc>
+  <defs
+     id="defs23705" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23711"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
+     id="g23713"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625"
+     stroke-miterlimit="2" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
+     id="g23715"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625"
+     stroke-miterlimit="2" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23717"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23723"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23729"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23735"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23741"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23747"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23753"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23759"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23765"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23771"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23777"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23783"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23789"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23795"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23801"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23807"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23813"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23819"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23825"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23831"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23837"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23843"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23849"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23855"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23861"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23867"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23873"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23879"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23885"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23891"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23897"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23903"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23909"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23915"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23921"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23927"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23933"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23939"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23945"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23951"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23957"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23963"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23969"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23975"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23981"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23987"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23993"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g23999"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24005"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24011"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24017"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24023"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24029"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24035"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24041"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24047"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24053"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24059"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24065"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24071"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24077"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24083"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24089"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24095"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24101"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24107"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24113"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24119"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24125"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24131"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24137"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24143"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24149"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24155"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24161"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24167"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24173"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24179"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24185"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24191"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24197"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24203"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24209"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24215"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24221"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24227"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24233"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24239"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24245"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24251"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24257"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24263"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24269"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24275"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24281"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24287"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24293"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24299"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24305"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24403"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#fbf161;fill-rule:evenodd;stroke:#000000;stroke-width:2.19701358;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g24429"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625"
+     transform="matrix(2.9886279,0,0,2.9886279,339.33717,354.90829)">
+    <path
+       style="vector-effect:non-scaling-stroke;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;fill:#fbf161;fill-opacity:1;stroke-width:2.19701358;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path24427"
+       d="M 4.31094,0 C 4.31094,-2.38087 2.38087,-4.31094 0,-4.31094 -2.38087,-4.31094 -4.31094,-2.38087 -4.31094,0 -4.31094,2.38087 -2.38087,4.31094 0,4.31094 2.38087,4.31094 4.31094,2.38087 4.31094,0" />
+  </g>
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24431"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24435"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625"
+     transform="matrix(2.8471974,0.90849518,-0.90849518,2.8471974,339.33776,354.90799)">
+    <path
+       style="vector-effect:non-scaling-stroke;fill-rule:evenodd;stroke:#000000;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path24433"
+       d="m 42.7542,0 c 0,-9.23084 -2.9254,-17.7784 -7.8996,-24.7662" />
+  </g>
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24441"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625"
+     transform="matrix(2.9886279,0,0,2.9886279,-646.22263,-786.7565)">
+    <polyline
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+       id="polyline24437"
+       points="329.77,382.003 372.524,382.003 " />
+    <polyline
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-opacity:1"
+       id="polyline24439"
+       points="329.77,382.003 332.205,378.446 " />
+  </g>
+  <g
+     style="font-style:normal;font-weight:400;font-size:12.625px;font-family:'Open Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     id="g24443"
+     font-style="normal"
+     font-weight="400"
+     font-size="12.625" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.08335876px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05208397"
+     x="404.08725"
+     y="353.02496"
+     id="text25367"><tspan
+       sodipodi:role="line"
+       id="tspan25365"
+       x="404.08725"
+       y="353.02496"
+       style="font-size:14.02778625px;stroke-width:1.05208397">d</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.08335876px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05208397"
+     x="-102.61606"
+     y="478.63318"
+     id="text25367-6"
+     transform="rotate(-55.648835)"><tspan
+       sodipodi:role="line"
+       id="tspan25365-1"
+       x="-102.61606"
+       y="478.63318"
+       style="font-size:14.02778625px;stroke-width:1.05208397">Rs</tspan></text>
+</svg>

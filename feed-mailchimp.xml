@@ -7,6 +7,19 @@
 		<atom:link href="https://legosalogos.github.io/feed-mailchimp.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Geometría (y física) en la Tierra plana.</title>
+				
+
+				
+
+				<media:content url="https://legosalogos.github.io/assets/images/geometria-plana_teaser.jpg" width="400" medium="image"/>   
+					<description>Un artículo que se toma demasiado el terraplanismo más en serio que los propios terraplanistas.</description>
+				<pubDate>Thu, 04 Jan 2018 00:00:00 -0300</pubDate>
+				<link>https://legosalogos.github.io/geometria-fisica-tierra-plana/</link>
+				<guid isPermaLink="true">https://legosalogos.github.io/geometria-fisica-tierra-plana/</guid>
+			</item>
+		
+			<item>
 				<title>Índice de libertad económica: No significa lo que creés que significa.</title>
 				
 
@@ -30,19 +43,6 @@
 				<pubDate>Fri, 26 May 2017 00:00:00 -0300</pubDate>
 				<link>https://legosalogos.github.io/cannabis-medicinal-epilepsia/</link>
 				<guid isPermaLink="true">https://legosalogos.github.io/cannabis-medicinal-epilepsia/</guid>
-			</item>
-		
-			<item>
-				<title>10 simples observaciones que muestran que la Tierra es redonda</title>
-				
-
-				
-
-				<media:content url="https://legosalogos.github.io/assets/images/tierra-plana_teaser.jpg" width="400" medium="image"/>   
-					<description>Como refutar el modelo terraplanista con dos ojos, un cerebro y un cacho de cartón.</description>
-				<pubDate>Sat, 15 Apr 2017 00:00:00 -0300</pubDate>
-				<link>https://legosalogos.github.io/tierra-plana/</link>
-				<guid isPermaLink="true">https://legosalogos.github.io/tierra-plana/</guid>
 			</item>
 		
 	</channel>

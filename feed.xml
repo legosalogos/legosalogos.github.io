@@ -7,6 +7,95 @@
 		<atom:link href="https://legosalogos.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Geometría (y física) en la Tierra plana.</title>
+					<description>
+
+				
+
+          &lt;img src=&quot;https://legosalogos.github.io/assets/images/geometria-plana_teaser.jpg&quot; class=&quot;webfeedsFeaturedVisual&quot;&gt;
+
+
+						&lt;p&gt;Durante toda mi infancia mis padres hicieron lo posible para convertirme en el nerdo que soy hoy. Mi mamá, psicóloga, mostrándome cómo funcionaba el &lt;a href=&quot;https://es.wikipedia.org/wiki/Condicionamiento_operante&quot;&gt;condicionamiento operante&lt;/a&gt; entrenando a mi gato para que tocara una campanita; mi papá, físico, enseñándome sobre la ley de gravedad sentados en una plaza. Pero algo que definitivamente me marcó de por vida fue mirar Cosmos una y otra vez.&lt;/p&gt;
+
+&lt;p&gt;Una de las tantas cosas que me enseñó fue la historia de &lt;a href=&quot;https://es.wikipedia.org/wiki/Erat%C3%B3stenes&quot;&gt;Eratóstenes&lt;/a&gt; y la medición del radio terrestre. Hasta el día de hoy me sirve para recordar de que no hace falta tecnología de punta para hacer ciencia; lo único imprescindible es tener un buen cerebro entre las orejas.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/mUxmCXSmtVo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; class=&quot;center&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Pero ahora vienen los terraplanistas y cuestionan la validez de esta medición. &lt;a href=&quot;https://www.facebook.com/tierraplanachile/photos/a.316231258746043.1073741828.316221912080311/519227578446409/?type=3&amp;amp;theater&quot;&gt;Dicen, ellos&lt;/a&gt;, que el experimento de Eratóstenes puede interpretarse en una Tierra plana como una medición de la distancia de la Tierra al Sol. Este es un buen ejemplo para analizar con un poco más de detalle el modelo de la Tierra plana.&lt;/p&gt;
+
+&lt;p&gt;Si bien en &lt;a href=&quot;/tierra-plana&quot;&gt;un artículo anterior&lt;/a&gt; ya analicé algunas de sus predicciones, vale la pena repetir cómo es la Tierra plana de los terraplanistas modernos. Pero esta vez poniéndole números a las cosas.&lt;/p&gt;
+
+&lt;p class=&quot;align-center&quot;&gt;&lt;img src=&quot;/assets/images/tierra-plana.png&quot; alt=&quot;modelo terraplanista&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La Tierra terraplanista es un disco de radio &lt;script type=&quot;math/tex&quot;&gt;r&lt;/script&gt;, con un Sol de radio &lt;script type=&quot;math/tex&quot;&gt;R_s&lt;/script&gt; a una altura &lt;script type=&quot;math/tex&quot;&gt;h&lt;/script&gt;. Cualquier punto sobre la superficie se define por su longitud &lt;script type=&quot;math/tex&quot;&gt;lon&lt;/script&gt; (equivalente a la que tendría en la Tierra esférica) y su distancia al polo norte &lt;script type=&quot;math/tex&quot;&gt;l&lt;/script&gt;, que se relaciona con la latitud de la Tierra esférica como &lt;script type=&quot;math/tex&quot;&gt;l = r/2(1 - lat/90)&lt;/script&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para ponerle números a estas variables, podemos asumir que los terraplanistas consideran correcto el tamaño del meridiano terrestre según la “ciencia oficial” de unos 40030 km (no es casualidad que este número es casi casi redondo, el &lt;a href=&quot;https://en.wikipedia.org/wiki/Metre#Meridional_definition&quot;&gt;metro&lt;/a&gt; originalmente estaba definido como una cuarentamillonésima parte del meridiano terrestre), 
+por lo que podemos usar ese número para el diámetro del disco (r = 2015km). Además, la altura del Sol la podemos sacar de &lt;a href=&quot;https://www.theflatearthsociety.org/tiki/tiki-index.php?page=The+Sun&quot;&gt;la wiki de la Flat Earth Society&lt;/a&gt;, según la cual el Sol está a 3000 millas – o 4800 km, si no usamos unidades de trogloditas.&lt;/p&gt;
+
+&lt;h2 id=&quot;eratóstenes-modernos&quot;&gt;Eratóstenes modernos&lt;/h2&gt;
+
+&lt;p&gt;En una Tierra plana, la relación entre la sombra (&lt;script type=&quot;math/tex&quot;&gt;s&lt;/script&gt;) de un palo y su altura (&lt;script type=&quot;math/tex&quot;&gt;p&lt;/script&gt;) crece linealmente a medida que uno se aleja del ecuador (en el equinoccio) y es inversamente proporcional a la altura a la que se encuentra el Sol. En una Tierra esférica, la relación sombra/palo es igual a la tangente de la latitud.&lt;/p&gt;
+
+&lt;p class=&quot;align-center&quot;&gt;&lt;img src=&quot;/assets/images/esquemas_eratostenes.png&quot; alt=&quot;esquema eratóstenes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En el esquema de arriba se puede apreciar la geometría, pero se lo puede entender intuitivamente si pensamos en lo que le pasaría a la sombra de un palo en el polo. En una Tierra plana, este lugar no tiene nada de especial, pero en una Tierra esférica, en el polo los rayos del sol son paralelos a la superficie y la sombra del palo es infinitamente larga.&lt;/p&gt;
+
+&lt;p&gt;Esto significa que si tenemos datos de la sombra de distintos palos a distintas latitudes, podríamos diferenciar fácilmente entre una Tierra plana con sol cercano y una Tierra esférica con sol lejano.&lt;/p&gt;
+
+&lt;p&gt;Existe un proyecto llamado &lt;a href=&quot;https://www.df.uba.ar/es/actividades-y-servicios/difusion/proyecto-eratostenes/eratostenes-2016&quot;&gt;“Proyecto Eratóstenes”&lt;/a&gt; en el cual muchísimas escuelas de todo el mundo miden la sombra proyectada por un palo en un determinado día del año. Un conocido que está en el programa me facilitó los datos.&lt;/p&gt;
+
+&lt;p class=&quot;align-center&quot;&gt;&lt;img src=&quot;/figure/ciencia-terraplanistas-eratostenes-1.png&quot; alt=&quot;plot of chunk eratostenes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Las mediciones hechas por los estudiantes no son perfectas pero claramente descartan el modelo terraplanista (línea azul) en favor de una Tierra esférica (rojo). Además, la distancia propuesta de 4800km no encaja muy bien. Haciendo las cuentas, las observaciones son más consistentes con una altura del sol de unos 5700km.&lt;/p&gt;
+
+&lt;h2 id=&quot;disco-helado&quot;&gt;Disco helado&lt;/h2&gt;
+
+&lt;p&gt;Teniendo estos números, se puede calcular cuánta energía recibe el disco plano a partir de la &lt;a href=&quot;https://es.wikipedia.org/wiki/Ley_de_Stefan-Boltzmann&quot;&gt;ley de Stefan-Boltzmann&lt;/a&gt;, la temperatura observada del Sol (~5776K) y usando la geometría del modelo.&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;La matemática es medio retorcida pero no particularmente difícil. Los interesados pueden ver el &lt;a href=&quot;apunte-matematico/&quot;&gt;apunte matemático&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Un resultado interesante es que en una Tierra plana la energía total recibida por el disco variaría con las estaciones. La razón es geométrica y apreciable en una imagen.&lt;/p&gt;
+
+&lt;p class=&quot;align-center&quot;&gt;&lt;img src=&quot;/figure/ciencia-terraplanistas-unnamed-chunk-3-1.png&quot; alt=&quot;plot of chunk unnamed-chunk-3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En el solsticio del hemisferio norte, el sol está más cerca del centro del disco y, por lo tanto, hay una gran parte del mismo iluminado con gran intensidad. En el solsticio del hemisferio sur, en cambio, gran parte de la luz solar se “cae” más allá del perímetro del disco perdiéndose completamente.&lt;/p&gt;
+
+&lt;p&gt;Esta diferencia en la energía recibida en cada estación es de 9%. Eso es un cambio enorme si se compara con la variación observada a causa del &lt;a href=&quot;https://es.wikipedia.org/wiki/Variaci%C3%B3n_solar&quot;&gt;ciclo solar&lt;/a&gt; de 0.1%.&lt;/p&gt;
+
+&lt;p&gt;El flujo de energía medio anual, por otro lado, sería de 141&lt;script type=&quot;math/tex&quot;&gt;\frac{W}{m^2}&lt;/script&gt;. El &lt;a href=&quot;https://es.wikipedia.org/wiki/Constante_solar&quot;&gt;valor observado&lt;/a&gt; es  2.4 veces mayor. Para tener una idea de qué significa esta diferencia, podemos imaginar cuánto cambiaría la temperatura terrestre si el flujo proveniente del Sol decreciera en esa magnitud. Estimaciones de la &lt;a href=&quot;https://es.wikipedia.org/wiki/Sensibilidad_clim%C3%A1tica&quot;&gt;sensibilidad climática&lt;/a&gt; indican que la Tierra se calienta unos 0.5°C por cada &lt;script type=&quot;math/tex&quot;&gt;\frac{W}{m^2}&lt;/script&gt; de desbalance energético. Abusando de este parámetro, la diferencia entre la energía que recibiría una Tierra plana y la energía observada equivale a una reducción de la temperatura de ¡107°C! Suficiente para congelar todos los océanos.&lt;/p&gt;
+
+&lt;p&gt;De más está decir que sería poco probable que la vida en la Tierra fuera posible. Se estima que el límite más lejano al Sol de la &lt;a href=&quot;https://en.wikipedia.org/wiki/Circumstellar_habitable_zone#Solar_System_estimates&quot;&gt;zona de habitabilidad&lt;/a&gt; en el sistema solar se encentra entre 1.02 y 1.68 Unidades Astronómicas. La cantidad de energía recibida por la Tierra plana está en el límite dudoso dentro del cual la vida en un planeta parecido a la Tierra no podría ser posible.&lt;/p&gt;
+
+&lt;h2 id=&quot;vacaciones-terraplanistas&quot;&gt;Vacaciones terraplanistas&lt;/h2&gt;
+
+&lt;p&gt;Ya que las cuestiones físicas del Sol son un caso perdido, volvamos a la parte geométrica. ¿Cómo son las distancias en una Tierra pana?&lt;/p&gt;
+
+&lt;p class=&quot;align-right&quot;&gt;&lt;img src=&quot;/assets/images/orto.jpg&quot; alt=&quot;ortódroma&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En una Tierra esférica la distancia entre dos puntos es una curva llamada &lt;a href=&quot;https://es.wikipedia.org/wiki/Ortodr%C3%B3mica&quot;&gt;ortódroma&lt;/a&gt;. En una Tierra plana, en cambio, la distancia entre dos puntos es simplemente una línea recta. Esto es bueno porque es mucho más fácil de calcular. Y eso es lo que hace &lt;a href=&quot;https://ecamp.shinyapps.io/avion-plano/&quot;&gt;esta pequeña applicación web&lt;/a&gt; donde para dos puntos cualesquiera dibuja, en rojo la ortódroma proyectada en un plano, y en azul la línea recta que los une en una Tierra plana.&lt;/p&gt;
+
+&lt;p&gt;Inmediatamente surge el problema de que en el hemisferio sur las distancias son enormes. Un vuelo entre Santiago de Chile y Sydney duraría  32 horas y cruzaría medio EE.UU. en vez de las ~12 horas de vuelo sobre el océano Pacífico.&lt;/p&gt;
+
+&lt;p class=&quot;align-center&quot;&gt;&lt;img src=&quot;/figure/ciencia-terraplanistas-unnamed-chunk-5-1.png&quot; alt=&quot;plot of chunk unnamed-chunk-5&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;Cabe aclarar que a pesar de que la línea roja parezca mucho más larga, en realidad representa una distancia mucho más corta pero está sumamente distorsionada por la proyección.&lt;/p&gt;
+
+&lt;p&gt;La distancia entre la costa Argentina y las Islas Malvinas sería de 2200km, casi el doble del radio de acción de los &lt;a href=&quot;https://es.wikipedia.org/wiki/Dassault_Mirage_III#Rendimiento&quot;&gt;aviones usados durante la Guerra de Malvinas&lt;/a&gt;; ¿la Guerra de Malvinas también fue una conspiración illuminati? Un viaje desde Buenos Aires hasta San Juan duraría 27 horas yendo a 90km/h sin parar y en línea recta en vez de las 16 horas &lt;a href=&quot;https://www.omnilineas.com.ar/bus/retiro/san-juan/&quot;&gt;que tarda un colectivo&lt;/a&gt; con paradas y meandros en el medio.&lt;/p&gt;
+
+&lt;p&gt;Estos problemas surgen porque los terraplanistas adoptaron como suyo un modelo en el que las distancias en el hemisferio sur no son las mismas que en el hemisferio norte. En un planeta esférico un círculo de latitud constante en 30° de latitud mide lo mismo esté en el sur o en el norte, pero en la Tierra plana, 30°S el doble de largo que 30°N.&lt;/p&gt;
+
+&lt;p&gt;Por supuesto que en una Tierra plana la distribución y forma de los continentes &lt;strong&gt;podría&lt;/strong&gt; ser distinta. Pero ¿qué distribución continental permitiría que el vuelo transpacífico de Sudamérica a Australia al mismo tiempo que permite el vuelo transíndico desde Johannesburgo?&lt;/p&gt;
+
+&lt;h2 id=&quot;la-vida-en-el-disco&quot;&gt;La vida en el disco&lt;/h2&gt;
+
+&lt;p&gt;Además de las diferencias un tanto esotéricas como las sombras que hacen los palos a distintas latitudes, la vida en una Tierra plana sería muy distinta a la nuestra. Además de &lt;a href=&quot;/tierra-plana&quot;&gt;no tener noche&lt;/a&gt;, el planeta posiblemente sería un frígido desierto peor que la Antártida, con fluctuaciones increíbles de temperatura global durante el año y, como si fuera poco, con la imposibilidad de darse una escapada a las (congeladas) playas australianas.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 04 Jan 2018 00:00:00 -0300</pubDate>
+				<link>https://legosalogos.github.io/geometria-fisica-tierra-plana/</link>
+				<guid isPermaLink="true">https://legosalogos.github.io/geometria-fisica-tierra-plana/</guid>
+			</item>
+		
+			<item>
 				<title>Índice de libertad económica: No significa lo que creés que significa.</title>
 					<description>
 
