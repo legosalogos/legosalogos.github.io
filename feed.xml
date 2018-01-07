@@ -30,7 +30,7 @@
 &lt;p&gt;La Tierra terraplanista es un disco de radio &lt;script type=&quot;math/tex&quot;&gt;r&lt;/script&gt;, con un Sol de radio &lt;script type=&quot;math/tex&quot;&gt;R_s&lt;/script&gt; a una altura &lt;script type=&quot;math/tex&quot;&gt;h&lt;/script&gt;. Cualquier punto sobre la superficie se define por su longitud &lt;script type=&quot;math/tex&quot;&gt;lon&lt;/script&gt; (equivalente a la que tendría en la Tierra esférica) y su distancia al polo norte &lt;script type=&quot;math/tex&quot;&gt;l&lt;/script&gt;, que se relaciona con la latitud de la Tierra esférica como &lt;script type=&quot;math/tex&quot;&gt;l = r/2(1 - lat/90)&lt;/script&gt;.&lt;/p&gt;
 
 &lt;p&gt;Para ponerle números a estas variables, podemos asumir que los terraplanistas consideran correcto el tamaño del meridiano terrestre según la “ciencia oficial” de unos 40030 km (no es casualidad que este número es casi casi redondo, el &lt;a href=&quot;https://en.wikipedia.org/wiki/Metre#Meridional_definition&quot;&gt;metro&lt;/a&gt; originalmente estaba definido como una cuarentamillonésima parte del meridiano terrestre), 
-por lo que podemos usar ese número para el diámetro del disco (r = 2015km). Además, la altura del Sol la podemos sacar de &lt;a href=&quot;https://www.theflatearthsociety.org/tiki/tiki-index.php?page=The+Sun&quot;&gt;la wiki de la Flat Earth Society&lt;/a&gt;, según la cual el Sol está a 3000 millas – o 4800 km, si no usamos unidades de trogloditas.&lt;/p&gt;
+por lo que podemos usar ese número para el diámetro del disco (r = 20015km). Además, la altura del Sol la podemos sacar de &lt;a href=&quot;https://www.theflatearthsociety.org/tiki/tiki-index.php?page=The+Sun&quot;&gt;la wiki de la Flat Earth Society&lt;/a&gt;, según la cual el Sol está a 3000 millas – o 4800 km, si no usamos unidades de trogloditas.&lt;/p&gt;
 
 &lt;h2 id=&quot;eratóstenes-modernos&quot;&gt;Eratóstenes modernos&lt;/h2&gt;
 
@@ -52,7 +52,7 @@ por lo que podemos usar ese número para el diámetro del disco (r = 2015km). Ad
 
 &lt;p&gt;Teniendo estos números, se puede calcular cuánta energía recibe el disco plano a partir de la &lt;a href=&quot;https://es.wikipedia.org/wiki/Ley_de_Stefan-Boltzmann&quot;&gt;ley de Stefan-Boltzmann&lt;/a&gt;, la temperatura observada del Sol (~5776K) y usando la geometría del modelo.&lt;/p&gt;
 
-&lt;p class=&quot;notice&quot;&gt;La matemática es medio retorcida pero no particularmente difícil. Los interesados pueden ver el &lt;a href=&quot;apunte-matematico/&quot;&gt;apunte matemático&lt;/a&gt;.&lt;/p&gt;
+&lt;p class=&quot;notice&quot;&gt;La matemática es medio retorcida pero no particularmente difícil. Los interesados pueden ver el &lt;a href=&quot;/geometria-fisica-tierra-plana/apunte-matematico&quot;&gt;apunte matemático&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Un resultado interesante es que en una Tierra plana la energía total recibida por el disco variaría con las estaciones. La razón es geométrica y apreciable en una imagen.&lt;/p&gt;
 
@@ -64,7 +64,7 @@ por lo que podemos usar ese número para el diámetro del disco (r = 2015km). Ad
 
 &lt;p&gt;El flujo de energía medio anual, por otro lado, sería de 141&lt;script type=&quot;math/tex&quot;&gt;\frac{W}{m^2}&lt;/script&gt;. El &lt;a href=&quot;https://es.wikipedia.org/wiki/Constante_solar&quot;&gt;valor observado&lt;/a&gt; es  2.4 veces mayor. Para tener una idea de qué significa esta diferencia, podemos imaginar cuánto cambiaría la temperatura terrestre si el flujo proveniente del Sol decreciera en esa magnitud. Estimaciones de la &lt;a href=&quot;https://es.wikipedia.org/wiki/Sensibilidad_clim%C3%A1tica&quot;&gt;sensibilidad climática&lt;/a&gt; indican que la Tierra se calienta unos 0.5°C por cada &lt;script type=&quot;math/tex&quot;&gt;\frac{W}{m^2}&lt;/script&gt; de desbalance energético. Abusando de este parámetro, la diferencia entre la energía que recibiría una Tierra plana y la energía observada equivale a una reducción de la temperatura de ¡107°C! Suficiente para congelar todos los océanos.&lt;/p&gt;
 
-&lt;p&gt;De más está decir que sería poco probable que la vida en la Tierra fuera posible. Se estima que el límite más lejano al Sol de la &lt;a href=&quot;https://en.wikipedia.org/wiki/Circumstellar_habitable_zone#Solar_System_estimates&quot;&gt;zona de habitabilidad&lt;/a&gt; en el sistema solar se encentra entre 1.02 y 1.68 Unidades Astronómicas. La cantidad de energía recibida por la Tierra plana está en el límite dudoso dentro del cual la vida en un planeta parecido a la Tierra no podría ser posible.&lt;/p&gt;
+&lt;p&gt;De más está decir que sería poco probable que la vida en la Tierra fuera posible. Se estima que el límite más lejano al Sol de la &lt;a href=&quot;https://en.wikipedia.org/wiki/Circumstellar_habitable_zone#Solar_System_estimates&quot;&gt;zona de habitabilidad&lt;/a&gt; en el sistema solar se encuentra entre 1.02 y 1.68 Unidades Astronómicas. La cantidad de energía recibida por la Tierra plana está en el límite dudoso dentro del cual la vida en un planeta parecido a la Tierra no podría ser posible.&lt;/p&gt;
 
 &lt;h2 id=&quot;vacaciones-terraplanistas&quot;&gt;Vacaciones terraplanistas&lt;/h2&gt;
 
