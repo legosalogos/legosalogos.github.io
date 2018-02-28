@@ -7,6 +7,19 @@
 		<atom:link href="https://legosalogos.github.io/feed-mailchimp.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>El embarazo como forma de castigo divino (o la ineludible responsabilidad de parir)</title>
+				
+
+				
+
+				<media:content url="https://legosalogos.github.io/assets/images/aborto-castigo_teaser.jpg" width="400" medium="image"/>   
+					<description>Al afirmar que la mujer debe ser &quot;responsable&quot;, los antiabortistas sacan a relucir cómo realmente ven el embarazo.</description>
+				<pubDate>Wed, 28 Feb 2018 00:00:00 -0300</pubDate>
+				<link>https://legosalogos.github.io/embarazo-castigo/</link>
+				<guid isPermaLink="true">https://legosalogos.github.io/embarazo-castigo/</guid>
+			</item>
+		
+			<item>
 				<title>Geometría (y física) en la Tierra plana.</title>
 				
 
@@ -30,19 +43,6 @@
 				<pubDate>Wed, 28 Jun 2017 00:00:00 -0300</pubDate>
 				<link>https://legosalogos.github.io/indice-libertad-economica/</link>
 				<guid isPermaLink="true">https://legosalogos.github.io/indice-libertad-economica/</guid>
-			</item>
-		
-			<item>
-				<title>Nueva evidencia del cannabis medicinal para el Síndrome de Dravet</title>
-				
-
-				
-
-				<media:content url="https://legosalogos.github.io/assets/images/cannabidiol-dravet_small.png" width="400" medium="image"/>   
-					<description>Un ensayo clínico con todas las letras muestra efectos beneficiosos del cannabidiol para el Síndrome de Dravet.</description>
-				<pubDate>Fri, 26 May 2017 00:00:00 -0300</pubDate>
-				<link>https://legosalogos.github.io/cannabis-medicinal-epilepsia/</link>
-				<guid isPermaLink="true">https://legosalogos.github.io/cannabis-medicinal-epilepsia/</guid>
 			</item>
 		
 	</channel>
