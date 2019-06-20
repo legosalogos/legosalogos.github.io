@@ -7,6 +7,19 @@
 		<atom:link href="https://legosalogos.github.io/feed-mailchimp.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Inclusive el lenguaje inclusivo</title>
+				
+
+				
+
+				<media:content url="https://legosalogos.github.io/assets/images/lenguaje-inclusivo_teaser.jpg" width="400" medium="image"/>   
+					<description>La lucha por la igualdad de género va de boca en boca.</description>
+				<pubDate>Mon, 17 Jun 2019 00:00:00 -0300</pubDate>
+				<link>https://legosalogos.github.io/inclusive-lenguaje-inclusivo/</link>
+				<guid isPermaLink="true">https://legosalogos.github.io/inclusive-lenguaje-inclusivo/</guid>
+			</item>
+		
+			<item>
 				<title>El embarazo como forma de castigo divino (o la ineludible responsabilidad de parir)</title>
 				
 
@@ -30,19 +43,6 @@
 				<pubDate>Thu, 04 Jan 2018 00:00:00 -0300</pubDate>
 				<link>https://legosalogos.github.io/geometria-fisica-tierra-plana/</link>
 				<guid isPermaLink="true">https://legosalogos.github.io/geometria-fisica-tierra-plana/</guid>
-			</item>
-		
-			<item>
-				<title>Índice de libertad económica: No significa lo que creés que significa.</title>
-				
-
-				
-
-				<media:content url="https://legosalogos.github.io/assets/images/libertad-econ-small.jpg" width="400" medium="image"/>   
-					<description>O el índice de libertad económica no mide la libertad económica, o la libertad económica no es lo que creés que es.</description>
-				<pubDate>Wed, 28 Jun 2017 00:00:00 -0300</pubDate>
-				<link>https://legosalogos.github.io/indice-libertad-economica/</link>
-				<guid isPermaLink="true">https://legosalogos.github.io/indice-libertad-economica/</guid>
 			</item>
 		
 	</channel>
